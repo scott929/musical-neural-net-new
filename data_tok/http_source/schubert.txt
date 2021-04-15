@@ -1,0 +1,1196 @@
+xxbos <!doctype html xxup public "- / / xxup w3c / / xxup dtd xxup xhtml 1.0 xxmaj transitional / / xxup en" "http: / / xxrep 3 w .w3.org / xxup tr / xhtml1 / xxup dtd / xhtml1-transitional.dtd">
+<html xmlns="http: / / xxrep 3 w .w3.org / 1 xxrep 3 9 / xhtml">
+ <head>
+	<meta http-equiv="content-type" content="text / html; charset=utf-8" / >
+	<title>classical xxmaj archives: xxmaj your xxmaj downloads< / title>
+<meta http-equiv="pics-label" content='(pics-1.1 "http: / / xxrep 3 w .classify.org / safesurf / " l gen true for "https: / / xxrep 3 w .classicalarchives.com / " r (ss~~ xxrep 3 0 1))' / >
+<meta http-equiv="pics-label" content='(pics-1.1 "http: / / xxrep 3 w .icra.org / ratingsv02.html" comment "single file v2.0" l gen true for "https: / / xxrep 3 w .classicalarchives.com" r (nz 1 vz 1 lz 1 oz 1 cb 1) "http: / / xxrep 3 w .rsac.org / ratingsv01.html" l gen true for "https: / / xxrep 3 w .classicalarchives.com" r (n 0 s 0 v 0 l 0))' / >
+<meta http-equiv="content-language" content="en" / >
+<meta name="robots" content="index, xxup follow" / >
+<meta name="author" content="classical xxmaj archives xxup llc" / >
+<meta name="title" content="classical xxup music xxup archives - xxup classical xxup music" / >
+<meta name="subject" content="classical xxmaj music xxmaj archives" / >
+<meta name="publisher" content="pierre xxup r. xxmaj schwob" / >
+<meta name="language" content="english" / >
+<meta name="rights" content="copyright (c) xxmaj classical xxmaj archives, xxup llc" / >
+<meta name="description" content="the largest classical music site on the web. xxmaj hundreds of thousands of classical music files. xxmaj most composers and their music are represented. xxmaj biographies, reviews, playlists and store." / >
+<meta name="keywords" content="classical music,classical archives,listen to classical music,play classical music,download classical music,listen to complete works,play complete works,listen to full classical music,play entire classical music works,browse classical music,classical music downloads,classical music streams,classical music streaming,classical music albums,classical music works,classical music composers,classical music artists,classical music performers,classical music instruments,classical music periods,free classical music,classical music midi,classical music files,free classical music midi,classical music performances,free classical music performances,classical music videos,classical music player,classical music blog,classical music interviews,performers interviews,classical music editorial,music festivals,classical music festivals,classical music concerts,musicology,composer biographies,classical music collection,classical music library,classical music labels,classical music store,classical music online,online classical music,online music store,midi,mp3,aac,audio,music,playlists,orchestras,baroque,classical,romantic,modern,concerts,opera,chamber music,symphony,concerto,sonata,recital,classicalarchives,classicalarchives.com,free internet radio,classical radio" / >
+
+<link rel="apple-touch-icon" sizes="180x180" href=" / apple-touch-icon.png" / >
+<link rel="icon" type="image / png" sizes="32x32" href=" / favicon-32x32.png" / >
+<link rel="icon" type="image / png" sizes="16x16" href=" / favicon-16x16.png" / >
+
+<link rel="alternate" type="application / rss+xml" href=" / news.xml" / >
+
+
+<link rel="stylesheet" type="text / css" href=" / css / ca-2.css?r=85878" / >
+
+
+<!--[if xxup ie 6]>
+<style type="text / css">
+.box .bd, .box .bd .box .bd {
+ position:static;
+ / * overflow:visible; * / 
+}
+< / style>
+< / style>
+<![endif]-->
+<!--[if xxup ie 7]>
+<style type="text / css">
+.box .bd, .box .bd .box .bd {
+ position:relative;
+ / * overflow:auto; * / 
+}
+< / style>
+<![endif]-->
+
+
+
+<script type="text / javascript" src=" / / xxrep 3 w .google-analytics.com / ga.js">< / script>
+
+
+
+<script type="text / javascript" src=" / / s7.addthis.com / js / 300 / addthis_widget.js # pubid=cma">< / script>
+
+<script type="text / javascript">
+var cma_base_url = 'https: / / xxrep 3 w .classicalarchives.com';
+var cookie_domain = '.classicalarchives.com';
+var is_subscriber = true;
+< / script>
+
+
+<script type="text / javascript" src=" / js / ca.js?r=86451">< / script>
+
+
+
+ <style type="text / css">
+ a.link {
+ color: # 800;
+ font-weight: bold;
+ }
+ li.heading {
+ padding-top: 3px;
+ padding-bottom: 3px;
+ }
+ span.heading {
+ font-size: 14px;
+ }
+ li.question {
+ padding-top: 3px;
+ padding-bottom: 3px;
+ }
+ a.question {
+ font-weight: bold;
+ }
+ ul.indent {
+ margin-left: 15px;
+ }
+
+ .downloadtable {width:100%;}
+ .downloadtable td {
+ height:22px;
+ padding:4px xxwrep 3 0 ;
+ }
+ div.dlexpdate { color: # 98 xxrep 3 0 1; }
+ .dlhd {background:url( / images / nv / nv_sprite.png) repeat-x 0 0;}
+ .dlorder {padding:5px 10px;}
+ .dlpurch {padding:5px 10px;}
+ .dlwork {font-weight:bold;padding-left:20px!important;}
+ .dltrack {padding-left:40px!important;}
+ .dlsize {padding-right:10px!important;text-align:right;white-space:nowrap;}
+ .dlbutton {width:110px!important;text-align:right;}
+
+ .wiazf {font-size:77%;display:block;margin-right:6px;}
+ < / style>
+ <script language="javascript" type="text / javascript">
+ function settodownloaded(elid) {
+ try {
+ yahoo.util.dom.addclass($(elid),'yui-button-redownload');
+ yahoo.btn[elid].set("label", 're-download');
+ } catch(x) {
+ yahoo.util.dom.removeclass($(elid),'yui-button-redownload');
+ }
+ return true;
+ }
+ / / toggle
+ function toggle_list(e) {
+ var e = window.event || e;
+ var target = e.target || e.srcelement;
+
+ if (target && target.nodename) {
+ while (target.parentnode && target.nodename != "li" && target.nodename != "body")
+ target = target.parentnode;
+ }
+
+ if (target.haschildnodes()) {
+ var children = target.childnodes;
+ for (var i = 0; i < children.length; i++) {
+ if (children[i].nodename == "ul") {
+ children[i].style.display = (children[i].style.display == "none" || children[i].style.display == "") ? "block" : "none";
+ break;
+ }
+ }
+ }
+ }
+ document.onclick = toggle_list;
+
+ function setnotice() {
+ yahoo.util.connect.asyncrequest('post', ' / ajax / s-request-dlmanager-notice.html', {
+ success : function(o) {
+ try {
+ var rs = yahoo.lang.json.parse(o.responsetext);
+ if (yahoo.lang.isobject(rs)) {
+ if (yahoo.lang.isboolean(rs.s)) {
+ if (rs.s xxrep 3 = true) {
+ yahoo.cma.doredirect(rs.r);
+ yahoo.util.dom.addclass("emailnotification",'txtred');
+ $("emailnotification").innerhtml = "<strong>thank you.< / strong> xxmaj you will be notified as soon as the xxmaj download xxmaj manager becomes available.";
+ } else {
+ var okbtn = function() {
+ this.hide();
+ yahoo.cma.doredirect(rs.r);
+ };
+ if (yahoo.lang.isnumber(rs.f.c)) {
+ if (rs.f.c == 0) {
+ showmsgbox('info', 'no xxmaj changes xxmaj made', 'please review your information and try again.', null, okbtn, null);
+ } else {
+ showmsgbox('error', 'error', rs.f.m, null, okbtn, null);
+ }
+ } else {
+ showmsgbox('error', 'error', 'error xxmaj code: '+rs.f.c, null, okbtn, null);
+ }
+ yahoo.cma.loading.hide();
+ yahoo.cma.loading.destroy();
+ }
+ }
+ }
+ } catch(x) {
+ okbtn = function() {
+ this.hide();
+ yahoo.cma.doredirect(rs.r);
+ };
+ showmsgbox('error', 'error', x, null, okbtn, null);
+ yahoo.cma.loading.hide();
+ yahoo.cma.loading.destroy();
+ }
+ },
+ failure : function(o) {
+ okbtn = function() {
+ this.hide();
+ yahoo.cma.capm.show();
+ };
+ showmsgbox('error', 'connection xxmaj failed!', 'we were not able to save your account changes. xxmaj please try again.', null, okbtn, null)
+ yahoo.cma.loading.hide();
+ yahoo.cma.loading.destroy();
+ }
+ });
+ }
+
+ function cleartracks() {
+ showconfirmation('please xxmaj confirm', '', 'this will remove the grayed-out tracks that you have previously downloaded from this page.<p>(note: xxmaj we cannot detect if a download was successful, only that you initiated it.)< / p><p>are you sure you want to clear these tracks from this page?< / p>',
+ 'yes', function() {
+ $('downloadform').submit();
+ },
+ 'no', function() {
+ this.hide();
+ },
+ true);
+ return false;
+ }
+ < / script>
+ < / head>
+ <body id="cma">
+ 
+
+
+<script>
+_udn = ".classicalarchives.com";
+< / script>
+
+<iframe id="yui-history-iframe" src=" / images / nv / nv_sprite.png">< / iframe>
+<input id="yui-history-field" type="hidden" / >
+<a name="top" id="top">< / a>
+
+<div>
+
+ <div id="doc3" class="sides">
+ <div id="hd">
+ 
+
+
+
+ <div id="cma-header">
+ <div id="cma-header-prim">
+ <a href=" / " class="logo"><img src=" / images / a_logo.png" alt="home" / >< / a>
+ 
+ <a href="https: / / blog.classicalarchives.com / " class="blog"><img src=" / images / blog.png" alt="blog" / >< / a>
+ <a href=" / howto / tutorials.html" class="howto"><img src=" / images / howto.png" alt="how xxmaj to" / >< / a>
+
+ <div id="cmasearch" class="search yui-hidden">
+ <form id="cmasearchform" method="get" action=" / search" onsubmit="return cmasearch.submitstate;">
+ <div id="cmasearchbx">
+ <div id="cmasearcherr" class="yui-hidden">please enter a search term< / div>
+ <div id="cmasearching" class="yui-hidden">searching …< / div>
+ <div id="cmasearchdesc" class="yui-hidden">search for xxmaj music< / div>
+ <input id="cmasearchtxt" type="text" name="q" class="yui-hidden" / >
+ < / div><input id="cmasearchbtn" type="submit" title="search" value="" / >
+ <ul class="cmanv srchnv">
+ <li class="expand"><a href=" / advanced_search.html"><span class="bd">advanced xxmaj search< / span><span class="end">< / span>< / a>< / li>
+ < / ul>
+ < / form>
+<script type="text / javascript">
+var cmasearch = yahoo.cma.search.clone();
+cmasearch.init('cmasearchtxt', 'cmasearchbtn', 'cmasearchform', 'cmasearch');
+< / script>
+ < / div>
+
+ < / div>
+ 
+ <style>
+ # cma-header-misc-nav .navgiftsbtn {width:150px;height:22px; background-image:url(' / images / xxup cta / 160705 / navbar_send_gift_cta.png') !important;background-repeat:no-repeat;background-position:22px -22px !important;}
+ # cma-header-misc-nav .navgiftsbtn:hover {width:150px;height:22px; background-image:url(' / images / xxup cta / 160705 / navbar_send_gift_cta.png') !important;background-repeat:no-repeat;background-position:22px 0px !important;}
+ < / style>
+ <div id="cma-header-misc-nav">
+ <a id="navgiftslink" class="yui-hidden" href=" / secure / gift / select.html?bid=nbg"><div class="navgiftsbtn" style="float:right;width:185px;position:relative;top:-4px;">< / div>< / a>
+ < / div>
+ <script>
+ if (location.protocol == "http:" && location.href.indexof("secure") == -1)
+ yahoo.util.dom.removeclass("navgiftslink", "yui-hidden");
+ < / script>
+ <div id="cma-header-sec-nav">
+ < / div>
+ <div id="cma-header-prim-nav">
+ < / div>
+ 
+ <div style="float:right; padding:10px 15px 0 0;">
+ <a href=" / secure / cart / display.html" class="link" style="color: # xxrep 3 0 ; text-decoration:none;">
+ <span style="font-size:10px;" id="cma-header-cart-counts">< / span>
+ <img style="vertical-align:middle;" src=" / images / b_view-cart.png" alt="view xxmaj cart" / >
+ < / a>
+ < / div>
+ <div id="cma-header-member">
+ <div id="cma-header-testimonials" style="float:left; margin-top:14px" class="yui-hidden">
+ <a href=" / testimonials.html">
+ <img style="vertical-align:middle;" src=" / images / testimonials_link.jpg" alt="testimonials" / >
+ < / a>
+ < / div>
+ <div id="cma-header-member-login" class="yui-hidden">
+
+ < / div>
+ <div id="cma-header-member-welcome" class="yui-hidden">
+ <a href=" / secure / logout.html" class="memberlogout more">logout& <img src=" / images / b_black-arrow.gif" alt="" class="arrow lm" / >< / a>
+ <span class="memberwelcomemsg">welcome <a href=" / secure / youraccount.html" id="welcome-name">< / a>< / span>
+ < / div>
+ < / div>
+
+ <div class="yui-hidden" id="cma-stage-music">
+
+ < / div>
+<script type="text / javascript">
+yahoo.cmanav.data = null;
+yahoo.cmanav.navigator = null;
+yahoo.util.event.oncontentready("cma-header-prim-nav", function () {
+ yahoo.util.connect.asyncrequest('get', ' / ajax / nav-data.json', {
+ success: function(o) {
+ try {
+ yahoo.cmanav.data = yahoo.lang.json.parse(o.responsetext);
+
+ yahoo.cmanav.navigator = new yahoo.widget.navigator("cma-header-prim-nav", {
+ "navigation":yahoo.cmanav.data,
+ "secondarynavigation":"cma-header-sec-nav"
+ }
+ );
+
+ var navid = "2";
+ var navidparam = param("navid");
+
+ var navidcookie = readcookie('cma_navid');
+ if (navid == "2" && navidparam) {
+ navid = navidparam;
+ createcookie(
+ "cma_navid"
+ , navid
+ , 0
+ );
+ } else if (navid == "2" && navidcookie) {
+ navid = unescape(navidcookie);
+ }
+ yahoo.cmanav.navigator.set("default", navid);
+ yahoo.cmanav.navigator.render();
+ } catch (x) {
+ yahoo.cmanav.data = null;
+ yahoo.cma.dmsg('error','error!','sorry, but there was a problem parsing this page.', x);
+ return;
+ }
+ },
+ failure: function(o) {
+ if(o.status > 0) {
+ yahoo.cmanav.data = null;
+ yahoo.cma.dmsg('error','error!','an error occurred. xxmaj please try again or contact us if the error persists.', 'code: '+o.status);
+ }
+ }
+ });
+}, this);
+
+ < / script>
+ < / div>
+
+ <div id="cma-stage" class="cma-stage" class="yui-hidden">< / div>
+ < / div>
+ <div id="bd">
+ <div id="cma-doc">
+ <div id="cma-stage-message" class="yui-hidden">< / div>
+ <div class="stage-content">& < / div>
+ <div id="cma-main" class="content pbottom yui-hidden">
+
+ <div id="mmsg">< / div>
+<div id="bcnav"><ul>
+<li class="first"><a href=" / ">home< / a>< / li>
+<li>your xxmaj downloads< / li>
+< / ul>< / div>
+
+ <table class="master" cellspacing="0">
+ <tr>
+ <td id="main">
+ <div id="content">
+ <!-- xxup content -->
+ <form name="removal_form" id="downloadform" method="post">
+ <input type="hidden" name="remove" value="remove" / >
+ <div class="box">
+ <div class="nav">< / div>
+ <div class="hd"><h1>your xxmaj downloads< / h1>< / div>
+
+ <div class="bd pad" style="overflow:hidden;">
+
+ <div id="download_instructions" class="bd borderbottom">
+ <table>
+ <tr>
+ <td nowrap="nowrap" style="padding:0 8px 0 0">
+
+ <strong>download with our xxmaj download xxmaj manager.< / strong>
+ <ol class="dec">
+ <li>
+ <span class="yui-button yui-push-button" style="margin:0;" onmouseover="cbtn(this);"><span class="first-child"><a href=" / download-manager / ">install it< / a>< / span>< / span>
+ < / li>
+
+ <li>
+ xxmaj open it.
+ <br / >
+ <span style="font-size:11px">
+ (start > xxmaj all& xxmaj programs > xxup cma& xxmaj download& xxmaj manager)
+ < / span>
+ < / li>
+ <li>
+ xxmaj log in.
+ < / li>
+ <li>
+ xxmaj click &'start xxmaj downloading&'.
+ < / li>
+ < / ol>
+
+ < / td>
+ <td>
+ <strong>or, download with your browser.< / strong>
+ <br / >
+ <ol class="dec">
+
+ <li>
+ <strong>right< / strong>-click any &'download&' button.
+ < / li>
+ <li>
+ xxmaj choose &'save xxmaj link xxmaj as …&'.<br / >
+ < / li>
+
+ <li>
+ xxmaj choose a download folder
+ <br / >
+ (e.g., your xxmaj desktop).
+ < / li>
+ <li>
+ xxmaj click &'save&' to begin download.
+ < / li>
+ <li>
+ xxmaj repeat all steps for each download.
+ < / li>
+ < / ol>
+ < / td>
+ < / tr>
+ < / table>
+ < / div>
+
+ <div class="box mbottom">
+ <div class="bd borderbottom dlhd" style="overflow:hidden;">
+
+ <div class="rs dlorder"><strong>free downloads made on:< / strong> xxmaj aug 25, 2018 (00:00:00 xxup utc)< / div>
+
+ <div class="clearsm">< / div>
+ < / div>
+ <div class="bd">
+ <div class="dlexpdate" align="center" width="100%">you have until xxmaj sep 25, 2018 to download these tracks.< / div>
+ < / div>
+ <div class="bd pad" style="overflow:hidden;">
+ <table class="downloadtable" cellspacing="0">
+
+ <tr>
+ <td colspan="2">
+ < / td>
+ <td class="dlbutton">& < / td>
+ < / tr>
+
+ <tr>
+ <td colspan="2">
+ <strong>album:< / strong> classicalarchives xxmaj collection
+ < / td>
+ <td class="dlbutton">& < / td>
+ < / tr>
+
+ <tr>
+ <td class="dlwork" colspan="2">
+ xxmaj franz xxmaj peter xxmaj schubert: xxmaj piano xxmaj sonata xxmaj no.16 in xxup a-, xxup d.845, xxmaj op.42
+ < / td>
+ <td class="dlbutton">& < / td>
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ 1.moderato
+ < / td>
+ <td class="dlsize">
+ 35 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_1_1" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / kc1iq8ymlq8esugauebrwxtnkvffrnfp9ad-fwhk1cqxw1jmuqi9g5wqwfofpdrxcp1mpcedvvxxrah8ykkeg9w1koe4riqv4sdnumg94rbvbismm7kcu1fdlwahd0p0zgrtec_mwoevdb0qptwkvq / 8ivvrfyeyhpy65knfnkflw / sy_sps11.mid" onclick="return settodownloaded('dlbtn_1_1_1_1');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ 2.andante poco moto
+ < / td>
+ <td class="dlsize">
+ 45 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_1_2" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / fghn_wcnrzlgvqmq-htnrmibjzbmi1iqn-yliq1orrzcfsrelhi5ywdmsgudkbhdmlej1j7gpw_zpbylq6cof2x6ye3aelytwmtqgjguqcqnsdal052oz3gzjvxakpytvcgrgxsbyyktfycek67a6g / iwk_unzgcg2t0ofbuhalsq / sy_sps12.mid" onclick="return settodownloaded('dlbtn_1_1_1_2');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ 3.scherzo: xxmaj allegro vivace. xxmaj trio: xxmaj un poco piu lento
+ < / td>
+ <td class="dlsize">
+ 29 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_1_3" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / mgxbtnor9paj9dihtxty0u7v8u1fvc6quft_n6c_hmjvaousvutqudql4ii6op9ufb0edthjwx0mei84mdvvgktncv_cz8gvjvsghml2n_k3hpwzmphfdddtmekotwljqa8a-jvkotslkl95uqdaww / rzevo_zrsvbcbni9rpc1qw / sy_sps13.mid" onclick="return settodownloaded('dlbtn_1_1_1_3');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ 4.rondo: xxmaj allegro vivace
+ < / td>
+ <td class="dlsize">
+ 27 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_1_4" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / 68uyber3tebr-ibsfrwznifunnjcysdar2qkzci02bcppssl0xgo10lcgleicfx7_bqfmry8yzmklobahlsdv21vlk49fmh5lxzof4botgldisgzgs2pbdvhg1azydiiq-javyf09bdpekv0vhqcma / a6c_tihxmrtegbexop5zba / sy_sps14.mid" onclick="return settodownloaded('dlbtn_1_1_1_4');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dlwork" colspan="2">
+ xxmaj franz xxmaj peter xxmaj schubert: xxmaj piano xxmaj sonata in xxmaj eb, xxup d.568, xxmaj op.posth.122
+ < / td>
+ <td class="dlbutton">& < / td>
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ xxmaj piano xxmaj sonata in xxmaj eb, xxup d.568, xxmaj op.posth.122
+ < / td>
+ <td class="dlsize">
+ 114 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_2_1" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / g8q_mnnqxr-cpiuo2qztvvrvrf_9cezaojsywjfuoqjqatdwbszkdfrlaywshcfyxw_hhfwjdcgeogyguuuw69nbxuo1qmsnh8cdqsqlqlin9127i-hzbhslzki9cbm6f2z6hlwggxlyh4cajf69ww / zgfanuyks-yztsywdveqrq / sc_ps_03.mid" onclick="return settodownloaded('dlbtn_1_1_2_1');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dlwork" colspan="2">
+ xxmaj franz xxmaj peter xxmaj schubert: xxmaj piano xxmaj sonata xxmaj no.17 in xxup d, xxup d.850, xxmaj op.53 ('gasteiner')
+ < / td>
+ <td class="dlbutton">& < / td>
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ 1.allegro vivace
+ < / td>
+ <td class="dlsize">
+ 49 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_3_1" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / mais48l8s1hrzfkx_z43qgpvgsnyk4xizjj4winkfe3vkedq44hshtkyshxezcgixh_pkud8lng-l9tcvhef-yjaqep1vrdrkjuhza6x_v4so23wig4p798yrnzuaausboxzrnbzhsdztzasqgcsig / j0tnqo5frkum_ui1m6ztkq / sy_sps21.mid" onclick="return settodownloaded('dlbtn_1_1_3_1');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ 2.con moto
+ < / td>
+ <td class="dlsize">
+ 34 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_3_2" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / gabtcuk60zjm6h0n3zcf-3kld11ouoq030tq47of97e22b9xxsydrgi7gemgmiszu_7r8luqff98urzgw89rbvo1g28kw5z9bw0loihvs9slsmijqxm9csojanwslvyg87yyvel22jduhzt5fkofig / jcncw2cogszfbresqvfafg / sy_sps22.mid" onclick="return settodownloaded('dlbtn_1_1_3_2');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ 3.scherzo: xxmaj allegro vivace
+ < / td>
+ <td class="dlsize">
+ 44 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_3_3" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / kufl-mjzepmonkhmcsugcfssapjmikdtyjvszgburzoixohkv7qjfadyl6fm8msmpca43rm1k0800-zwkhita8ebyjkgwyvoq3zsyr7o-iq66b0kouss7uv2w0j_aafalstb5xwk96qdfxyhufwlvg / aptwztl82yxutleqcr-mfq / sy_sps23.mid" onclick="return settodownloaded('dlbtn_1_1_3_3');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ 4.rondo: xxmaj allegro moderato
+ < / td>
+ <td class="dlsize">
+ 45 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_3_4" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / lv0togdoiytkqnc4wxj38yealy6ywnshhmssfwoita5jrhl8oeb-et1tt7vfdzuswxzxerr6-qxh6or61wapeddpw16fmp5xm44sabxt23h6nkbapyxedgm_dbv96w4ewkyq1p1wdyobzb-2bk4yva / qjh2t90w8x5ndcbvzmig1w / sy_sps24.mid" onclick="return settodownloaded('dlbtn_1_1_3_4');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dlwork" colspan="2">
+ xxmaj franz xxmaj peter xxmaj schubert: xxmaj piano xxmaj sonata xxmaj no.9 in xxup b, xxup d.575, xxmaj op.posth.147
+ < / td>
+ <td class="dlbutton">& < / td>
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ xxmaj piano xxmaj sonata xxmaj no.9 in xxup b, xxup d.575, xxmaj op.posth.147
+ < / td>
+ <td class="dlsize">
+ 85 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_4_1" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / qwdcttflyjw8jwmfpg9kpuzohl89oichn25uury3y5tg6ffz1kzolfgbeswzazika7e7anpzwp9r7o27qcfaxvx92rnl4fslnthipb24oe2n2xbphcpotd2hafbbraxnyttuh65azvydssvvmk3x-g / cfmgimplnhgmxfoiytddzq / sc_ps_04.mid" onclick="return settodownloaded('dlbtn_1_1_4_1');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dlwork" colspan="2">
+ xxmaj franz xxmaj peter xxmaj schubert: xxmaj piano xxmaj sonata xxmaj no.14 in xxup a-, xxup d.784, xxmaj op.posth.143
+ < / td>
+ <td class="dlbutton">& < / td>
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ 1.allegro giusto
+ < / td>
+ <td class="dlsize">
+ 35 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_5_1" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / iwbiyqfi0dn0efddkmdxhhzhjsjsup7c732sgugcuxezp2h3fu9vdhjvm-morjpjmuvoszok0bucvunqspngcayzqrojxl5swp3zzalvwsxnzpl0hpxyz0mc_298z_pk5z93mr6jmtksioojzmiz2w / 7mamfgtd1jhqzkm7fpqwjq / sy_sps51.mid" onclick="return settodownloaded('dlbtn_1_1_5_1');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ 2.andante
+ < / td>
+ <td class="dlsize">
+ 9 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_5_2" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / vipiqfpahbdgxaw_r4sgas__zzwez0f70m5egmkz5mhvuxyj0yfwb3bq0c3cjay9nqrpgtph7ubjqlswpvi6fyoescsih6h8smh_b2o5a8u_gjplikwumuuhzevu1yanwcqkhdomsqxmp11en6migw / xxjoneimqinswggswazi9q / sy_sps52.mid" onclick="return settodownloaded('dlbtn_1_1_5_2');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ 3.allegro vivace
+ < / td>
+ <td class="dlsize">
+ 24 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_5_3" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / xy8juogqxaykv7ncclrmfh69sgpetcpwuum4b6ozymr7mgscwcsf77tfglpmbcnn_5nb_1azapyf7wb9uwilevt-_5tjn7qtks2tcktg2dod-21xmcyvxlnark3aafq1qgplgxwminpfmywrvndjrw / smm4-fwsnykyxwlvlpm6vg / sy_sps53.mid" onclick="return settodownloaded('dlbtn_1_1_5_3');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dlwork" colspan="2">
+ xxmaj franz xxmaj peter xxmaj schubert: 12 xxmaj german xxmaj ländler, xxup d.790, xxmaj op.posth.171
+ < / td>
+ <td class="dlbutton">& < / td>
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ 1.no.1 in d
+ < / td>
+ <td class="dlsize">
+ 6 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_6_1" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / 1ytw-ok-duybd_dsekhyparrphnmrly4ykoxwdyteefd8acmbvtjrusmr6by9zqnhdrzjwnr2zaiwqanz-guxin8sgw0dekl3zkhqoorohpiyij18dotonyq0ubo7ej6xyh0fc1lly99oufgmzmuoa / xvjvitaeixg_su-2hzu3vg / lnd171_1.mid" onclick="return settodownloaded('dlbtn_1_1_6_1');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ 2.no.2 in a
+ < / td>
+ <td class="dlsize">
+ 3 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_6_2" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / 6nxluxypjh0afl1mngzjsbke43p0hvcnm-bxonc6tf7bvmw8j0ogf0ltpkffr_edys8lb9hdhonpt1lqctptquhzwilhyqmw6ax0 xxrep 3 3 g-pabw3hjxjp3xboggo8wevqkpmberlsjhqkxqr64u6rwzq / prlgcfi-um3oyrgk1piuba / lnd171_2.mid" onclick="return settodownloaded('dlbtn_1_1_6_2');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dlwork" colspan="2">
+ xxmaj franz xxmaj peter xxmaj schubert: xxmaj piano xxmaj sonata xxmaj no.15 in xxup c, xxup d.840 ('relique')
+ < / td>
+ <td class="dlbutton">& < / td>
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ 1.moderato; 2.andante
+ < / td>
+ <td class="dlsize">
+ 81 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_7_1" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / 0ptyh0bfc5ugq8l_tktqn7uva74ymnywwyjeuqzn6nzvew9rbezawtgtdn3pjk85uxbwm9uc7hfuu3p2cxtzmqazdtblkawk3sez9u_leefeolilzxfofnbjiqhektfpr2sibrpxvjqfo2r1w2m2ng / e79gg_ftlfzekqk96e3wsa / sc_ps_08.mid" onclick="return settodownloaded('dlbtn_1_1_7_1');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dlwork" colspan="2">
+ xxmaj franz xxmaj peter xxmaj schubert: 12 xxmaj german xxmaj ländler, xxup d.790, xxmaj op.posth.171
+ < / td>
+ <td class="dlbutton">& < / td>
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ 6.no.6 in g # -
+ < / td>
+ <td class="dlsize">
+ 4 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_8_1" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / xqhbqqjernfgqpscmbvrucos-zk7dtbr72-mdiemofedojrk0wyxnhywl4g0n54_d8hgowhe892ql-vbnzgk0ei7eof1zh5f9d4w6_wvabhqx-blkr1sqpyorypp9lipbnq1pn6brx5-ncgjp4dnia / 3ck4el91rycfsw0ikz1svw / sch171_6.mid" onclick="return settodownloaded('dlbtn_1_1_8_1');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dlwork" colspan="2">
+ xxmaj franz xxmaj peter xxmaj schubert: xxmaj piano xxmaj sonata xxmaj no.20 in xxup a, xxup d.959
+ < / td>
+ <td class="dlbutton">& < / td>
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ 1.allegro
+ < / td>
+ <td class="dlsize">
+ 56 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_9_1" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / f0cdagbm7ptkhrbfwchpvc4plcds3wbgwfaydjra8rnezop_gurar8y8qim6rywpmn96ppr7eiqnkbe3yu3xngavsnpwst-ahcx7bcls5zq_jg1fvewxjdrkjj5uwkqkmdk01bhdoeyxwqqjiz3w-q / ho2cr5cgbcxdqqktxi7jvq / sy_sps91.mid" onclick="return settodownloaded('dlbtn_1_1_9_1');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ 2.andantino
+ < / td>
+ <td class="dlsize">
+ 16 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_9_2" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / wgopavybcjwgzcz8icsnua_oolpvntkisfstbyhflxcp9ajz52d3mrri07vqbxfixnbzhlhz4d2n2va1gt5yaecncyn8ysnrrw4gwjui9w7judkbbdpmkszqdlhrcyos_1aksyf9t-3asihyo_m-zg / kbnnhvlvixrjqdjszv1gua / sy_sps92.mid" onclick="return settodownloaded('dlbtn_1_1_9_2');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ 3.scherzo: xxmaj allegro vivace. xxmaj trio: xxmaj un poco più lento
+ < / td>
+ <td class="dlsize">
+ 21 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_9_3" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / pvcld-sbr0z6rtmukvtzh06g10jej79r14azd2cmayz7oaxjrtu95xaxpnsqcwhxa2axkrtlpz64xidcliwgw-9c17hs5pq3ochbgezc1x7syyqgxclq_qjxw6smakx7ok1i2oczmttoj4rigtvnqw / inbmlmk-jrhvngrrv0scsw / sy_sps93.mid" onclick="return settodownloaded('dlbtn_1_1_9_3');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ 4.rondo: xxmaj allegretto
+ < / td>
+ <td class="dlsize">
+ 48 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_9_4" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / _9jendbssrklclhua1vcz4rxghdjquhyfk8aa0o1iqkvzju3krpm4ebfry5kaltzoogpnzceme01drsiq4l7spcwvv5za_l0ilajv4miy6yqgz0e7l8mhxq_jdtarqvys6wcy4umjhwbvd7kfm3cxa / ua541q1ey-tgnlf-avyczg / sy_sps94.mid" onclick="return settodownloaded('dlbtn_1_1_9_4');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dlwork" colspan="2">
+ xxmaj franz xxmaj peter xxmaj schubert: xxmaj piano xxmaj sonata xxmaj no.21 in xxmaj bb, xxup d.960
+ < / td>
+ <td class="dlbutton">& < / td>
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ 1.molto moderato
+ < / td>
+ <td class="dlsize">
+ 71 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_10_1" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / yvs6m9e37raruorn_xgplcephmzitov9s-ymm3ftwsrls4kcedqfw6bzovjojfoaay28sz1y3ex_vpemzmbuziuaetta8vdkgynbem8dc7dsrrcp4cek4vcdevwjg-uum2k5hptx2y4rwobw6sdw6q / ojg0cnntfog_40sulouujw / sy_ss101.mid" onclick="return settodownloaded('dlbtn_1_1_10_1');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ 2.andante sostenuto
+ < / td>
+ <td class="dlsize">
+ 16 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_10_2" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / h1_ai1nuvrnkvks5uw4--h_c8-h6hntip4y4cujeacyl2ba8popnyc12qkbdtbrlg4odf6tuqochre-y4nrakqkxlf0q6oqcxxmb7tgmzlgoa7qspafe79jhv-upnzmfbqrw4g05giwej9w1jik8ua / -vbdk8vguq4h7jzv6g5ejw / sy_ss102.mid" onclick="return settodownloaded('dlbtn_1_1_10_2');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ 3.scherzo: xxmaj allegro vivace con delicatezza. xxmaj trio
+ < / td>
+ <td class="dlsize">
+ 22 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_10_3" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / ynzawwjhdprozzwrcjx37g5iu5wivppnmywwyhnwo3bkfc7fepkbickyoaj1gvcwe09lu3lton7rc1ds-kbtazs10ufovt-cnzftewblexk6ztkla5hjfrkg0oxck3nwcwb5_pyhej2zimor5lhbng / frcjmk3svuqhqsslj7nvdg / sy_ss103.mid" onclick="return settodownloaded('dlbtn_1_1_10_3');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ 4.allegro ma non troppo
+ < / td>
+ <td class="dlsize">
+ 41 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_10_4" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / zicjqakked8dgmljpge2npduutxgygtpmr4kp54sbe8rnzofdr7_wprn00b_7cnvb0msdo7oesfjyixlpoxjilhbducrcfnbjqw2e_vty7tsyek5at3weamjuyfnvbudbl1cbrl-jpsd5tjbjcereg / ba3gy9e-jbffbxsuoakugg / sy_ss104.mid" onclick="return settodownloaded('dlbtn_1_1_10_4');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dlwork" colspan="2">
+ xxmaj franz xxmaj peter xxmaj schubert: 16 xxmaj german xxmaj dances and 2 xxmaj ecossaises, xxup d.783, xxmaj op.33
+ < / td>
+ <td class="dlbutton">& < / td>
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ xxmaj no.1
+ < / td>
+ <td class="dlsize">
+ 3 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_11_1" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / j1zni7cfqd4bulfdu1fnruogwbsgy1sxwok3nrjth5awvafmrsltdbkgv-aq8rynkpf5yuecq11vwwcm58elfl0cgv0ybq_bu1wajpjqdxqxu3vqjv_3ff_ss7duq9ukjxl3rlazoc0jziomzymcya / otdidkzgd8zdbbx2k_dhrw / schu33_1.mid" onclick="return settodownloaded('dlbtn_1_1_11_1');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ xxmaj no.10
+ < / td>
+ <td class="dlsize">
+ 4 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_11_2" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / 3g8qgomsvivfdoxigematllzhhrzyfumq4etadss2wi4sakpohmhydnci-55k3bvzplbqpudezo95rsv-tcaxaox2zvl1xej6wjosxluip_7dz4kahs-rskwiokherheoxyan0s82vhmjyp-9vhibg / vn7szglbyy9c1r6gt1eexg / sch33_10.mid" onclick="return settodownloaded('dlbtn_1_1_11_2');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dlwork" colspan="2">
+ xxmaj franz xxmaj peter xxmaj schubert: xxmaj piano xxmaj sonata xxmaj no.4 in xxup a-, xxup d.537, xxmaj op.posth.164
+ < / td>
+ <td class="dlbutton">& < / td>
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ xxmaj piano xxmaj sonata xxmaj no.4 in xxup a-, xxup d.537, xxmaj op.posth.164
+ < / td>
+ <td class="dlsize">
+ 90 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_12_1" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / cirw3ed-2txqvq40q74speniytri_a0f_smccyhlvgtg9nhqn6kae4nqrj64zlrvs8y8-wdmfmhwruspblbc7wwr50erh23fprgmux-4csovy-ykspjnlpudtsrmsnsql6w3qd5uulctbwnzk2xg9q / yhadbssuf9njdwlq7llaza / sc-ps-02.mid" onclick="return settodownloaded('dlbtn_1_1_12_1');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dlwork" colspan="2">
+ xxmaj franz xxmaj peter xxmaj schubert: xxmaj piano xxmaj sonata xxmaj no.3 in xxup e, xxup d.459
+ < / td>
+ <td class="dlbutton">& < / td>
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ xxmaj piano xxmaj sonata xxmaj no.3 in xxup e, xxup d.459
+ < / td>
+ <td class="dlsize">
+ 117 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_13_1" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / bjtkzr6xvuo74lwq0t9gn2fjmliv-7kdq-py_3gt2t9bsvcbyaw4vmtgb5ut4m4afadymh8wro7skhul_g2qkzokutlplu64cmsm4bnlrbyqlczlxjdpxjrh2id_083zbr_8l2xwz3mwgahcprboaa / vs2a_ebngjjggbsugjc5la / sc-ps-01.mid" onclick="return settodownloaded('dlbtn_1_1_13_1');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dlwork" colspan="2">
+ xxmaj franz xxmaj peter xxmaj schubert: xxmaj piano xxmaj sonata xxmaj no.13 in xxup a, xxup d.664, xxmaj op.120
+ < / td>
+ <td class="dlbutton">& < / td>
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ 1.allegro moderato
+ < / td>
+ <td class="dlsize">
+ 35 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_14_1" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / gdxut_jlm2ajfww5r41slvuncqnie2j8_n6admn5vowwd_fkwraggyn-bqt4cv8uydcesebllopd597c-srnzhqvvn-5lnvz_y-kybh81mgjy7cmb1eru6vyhwxniyaoftm6akl3hcbcu3ll5zmv0w / 9eq5wiwv8evov_armziegq / sy_sps31.mid" onclick="return settodownloaded('dlbtn_1_1_14_1');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ 2.andante
+ < / td>
+ <td class="dlsize">
+ 10 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_14_2" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / ks8ss9ok9uoxo1jkgfphxwvanujcfbrqf7jew8ftx1bmzubspbzx_6ax5vo-tu5xig850kuv-jek9txfyecj87osddamqrl5q3rzn49pttqwvaonptbtlxdk7l3t20ahu4rz2bsn_njk9sdwj8qkrg / 1sel-ai4mbyf6x3ibdgu-a / sy_sps32.mid" onclick="return settodownloaded('dlbtn_1_1_14_2');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ 3.allegro
+ < / td>
+ <td class="dlsize">
+ 34 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_14_3" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / c5j3sfjif9usoxerewp3ljzwytyfjytbex1tv17x0gos_yxmjjojqeagntmzb6xlyzxoqwrymzc1mj-gvtarzcswneeqnybokix1q136fndtyb9lyaqra7scfawfqn9bljerfzjk4dudqpxu-cygxa / zlrhim5orbmt8a7mrafwjg / sy_sps33.mid" onclick="return settodownloaded('dlbtn_1_1_14_3');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dlwork" colspan="2">
+ xxmaj franz xxmaj peter xxmaj schubert: xxmaj piano xxmaj sonata xxmaj no.11 in xxup f-, xxup d.625
+ < / td>
+ <td class="dlbutton">& < / td>
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ xxmaj piano xxmaj sonata xxmaj no.11 in xxup f-, xxup d.625
+ < / td>
+ <td class="dlsize">
+ 85 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_15_1" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / eqmvsl_x3bn7edxzanedtmqcafzthoxn9qgnelogk3e8mhtprzitkwfmcraplbgvecwrkzkut5byorkcv3gq8sietbkn9iwyd99_uywqs2t9z5_nbjlobzotn98et7r_4v482k0gq-mpy1fia6rwzg / _ifp1jujrtldtr_481g5qq / sc_ps_05.mid" onclick="return settodownloaded('dlbtn_1_1_15_1');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ < / table>
+ < / div>
+ <div class="tl">< / div>
+ <div class="tr">< / div>
+ <div class="bl">< / div>
+ <div class="br">< / div>
+ < / div>
+
+ < / div>
+
+ <div class="ft">
+ <div style="float:right;">
+ <ul>
+ <li><span id="clearbtnbot" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><button type="button" hidefocus="true" onclick="return cleartracks()">clear xxmaj already xxmaj downloaded xxmaj tracks< / button>< / span>< / span>< / li>
+ < / ul>
+ < / div>
+ <div class="clearsm">< / div>
+ < / div>
+
+ <div class="tl">< / div>
+ <div class="tr">< / div>
+ <div class="bl">< / div>
+ <div class="br">< / div>
+ < / div>
+ < / form>
+ <!-- / xxup content -->
+ < / div>
+ < / td>
+
+ <!-- xxup sidebar -->
+ <td id="gutter"><div>< / div>< / td>
+ <td id="sidebar"><div id="sbfix">< / div>
+ <div class="box">
+ <div class="nav">< / div>
+ <div class="hd"><h1>try our xxmaj download xxmaj manager< / h1>< / div>
+ <div class="bd pad">
+ <h2 style="margin-top:0;">download with just xxmaj one xxmaj click!< / h2>
+ <p><a href=" / download-manager / "><img src=" / images / xxup cta / 140701 / a_dlmanager.png" alt="free xxmaj download xxmaj manager" / >< / a>< / p>
+ <p style="text-align:center;"><span class="yui-button yui-push-button" style="margin:0;" onmouseover="cbtn(this);"><span class="first-child"><a href=" / download-manager / ">get the xxmaj download xxmaj manager xxmaj now!< / a>< / span>< / span>< / p>
+
+ <p style="text-align:center;"><em style="font-size:77%;">requires xxmaj windows & <a href="http: / / java.sun.com / javase / downloads / " target="_blank">java 6< / a>< / em>< / p>
+
+ < / div>
+ <div class="ft yui-hidden" id="accpreffooter">
+ <ul>
+ <li><span id="saveaccpref" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><button type="button" onclick="saveaccpref('s-save-account-preferences.html');" hidefocus="true">save xxmaj changes< / button>< / span>< / span>< / li>
+ < / ul>
+ <div class="clearsm">< / div>
+ < / div>
+ <div class="tl">< / div>
+ <div class="tr">< / div>
+ <div class="bl">< / div>
+ <div class="br">< / div>
+ < / div>
+ < / td>
+ <!-- / xxup sidebar -->
+
+ < / tr>
+ < / table>
+
+
+
+ < / div>
+ <div class="content pbottom">
+ <noscript>
+ <div id="jsemsg">
+ <div class="msg">
+ xxmaj javascript is required to use this site.
+ < / div>
+ <div class="bdy">
+ <h2>please enable xxmaj javascript in your browser's settings, and reload this page.< / h2>
+ xxmaj in xxmaj internet xxmaj explorer 7+: click "tools", "internet xxmaj options", "security", "default xxmaj level", "ok"<br / ><br / >
+ xxmaj in xxmaj firefox 2+: click "tools", "options", "content", "enable xxmaj javascript", "ok"<br / ><br / >
+ xxmaj if you continue to see this message, your security software is interfering with your browser.
+ xxmaj please contact your security software's customer service or (if your computer has a service warranty) your computer's manufacturer, and ask how to configure it to allow xxmaj javascript.<br / >
+ < / div>
+ <div class="msg">
+ xxmaj javascript is required to use this site.
+ < / div>
+ < / div>
+ < / noscript>
+ & 
+ < / div>
+ <div class="content">
+
+
+ <div class="yui-g cpline">
+ <div class="cpinfo">© 1994-2018 xxmaj classical xxmaj archives xxup llc — xxmaj the xxmaj ultimate xxmaj classical xxmaj music xxmaj destination ™< / div>
+ < / div>
+ < / div>
+ < / div>
+ < / div>
+
+ <div id="ft">
+ <div id="cma-bot" class="sides">
+ <div class="footer">
+
+
+<div class="yui-gb first">
+ <div class="yui-u first">
+ <ul>
+ 
+ <li class="first"><a href="javascript:openapmradio()">free xxmaj internet xxmaj radio< / a>< / li>
+ <li>& < / li>
+ 
+ <li class="first"><a href=" / secure / message.html" onclick="yahoo.cma.ajaxerrpnl.startrequest(' / help / help-bubble.html',null,'help'); return false;">help< / a>< / li>
+ <li><a href=" / secure / password.html">forgot password< / a>< / li>
+ <li><a href=" / choose_player.html">browser xxmaj compatibility xxmaj test< / a>< / li>
+ <li><a href=" / help.html">how to play / download / burn music< / a>< / li>
+ <li><a href=" / secure / message.html" onclick="yahoo.cma.ajaxerrpnl.startrequest(' / help / musicology-bubble.html',null,'musicology xxmaj correction'); return false;">submit musicology correction< / a>< / li>
+ <li><a href=" / help.html">tutorials && faqs< / a>< / li>
+ <li><a href=" / howto / tutorials.html">how xxmaj to< / a>< / li>
+ <li><a href=" / secure / message.html" onclick="yahoo.cma.ajaxerrpnl.startrequest(' / help / subscription-bubble.html',null,'subscription xxmaj help'); return false;">my xxmaj subscription< / a>< / li>
+ <li><a href=" / secure / message.html">send xxmaj feedback< / a>< / li>
+ < / ul>
+ < / div>
+ <div class="yui-u">
+ <ul>
+ <li class="first"><a href=" / sitemap.html">sitemap< / a>< / li>
+ <li>& < / li>
+ <li class="first"><a href=" / submit / ">submit xxmaj your xxmaj music< / a>< / li>
+ <li class="first">tutorials< / li>
+ <li><a href="javascript:tutoverview();">overview< / a>< / li>
+ <li><a href="javascript:tutcomposers();">composers< / a>< / li>
+ <li><a href="javascript:tutworks();">works< / a>< / li>
+ <li><a href="javascript:tutartists();">artists< / a>< / li>
+ <li><a href="javascript:tutalbums();">albums< / a>< / li>
+ <li><a href="javascript:tutplaylists();">playlists< / a>< / li>
+ 
+ <li>& < / li>
+ <li class="first"><a href=" / google_button.html">google xxmaj toolbar xxmaj button (ie && xxup ff only)< / a>< / li>
+ < / ul>
+ < / div>
+ <div class="yui-u">
+ <ul>
+ <li class="first"><a href=" / intro.html">introduction to xxmaj classical xxmaj archives< / a>< / li>
+ <li>& < / li>
+ 
+ <li class="first"><a href="https: / / blog.classicalarchives.com / ">blog< / a>< / li>
+ <li class="first"><a href=" / about.html">about xxmaj us< / a>< / li>
+ <li class="first"><a href=" / secure / message.html">contact xxmaj us< / a>< / li>
+ <li class="first"><a href=" / link.html">link to xxmaj us< / a>< / li>
+ <li><a href=" / terms.html">terms && xxmaj conditions< / a>< / li>
+ <li><a href=" / privacy.html">privacy xxmaj policy< / a>< / li>
+ <li><a href=" / terms.html # ip">copyrights && xxmaj permissions< / a>< / li>
+ <li>& < / li>
+ <li id="tflag" class="first">
+ 
+ < / li>
+ < / ul>
+ < / div>
+< / div>
+
+<div id="swfversion">< / div>
+<script type="text / javascript">embedversionplugin();< / script>
+
+ < / div>
+ < / div>
+ < / div>
+ < / div>
+
+< / div>
+
+
+<div class="google-analytics-tracking">
+ <script type="text / javascript">
+ var _gaq = _gaq || [];
+ _gaq.push(['_setaccount', 'ua-346506-3']);
+ _gaq.push(['_setdomainname', '.classicalarchives.com']);
+ _gaq.push(['_trackpageview']);
+ < / script>
+< / div>
+<div id="msgbox2" class="yui-hidden">
+ <div class="hd">& < / div>
+ <div class="bd">
+ <iframe id="surveyframe" width="470" height="450" scrolling="auto" frameborder="0" title="survey" style="margin:10px;">< / iframe>
+ < / div>
+ <div class="ft">< / div>
+< / div>
+
+
+ < / body>
+< / html>

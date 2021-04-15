@@ -1,0 +1,2344 @@
+xxbos <!doctype html xxup public "- / / xxup w3c / / xxup dtd xxup xhtml 1.0 xxmaj transitional / / xxup en" "http: / / xxrep 3 w .w3.org / xxup tr / xhtml1 / xxup dtd / xhtml1-transitional.dtd">
+<html xmlns="http: / / xxrep 3 w .w3.org / 1 xxrep 3 9 / xhtml">
+ <head>
+	<meta http-equiv="content-type" content="text / html; charset=utf-8" / >
+	<title>classical xxmaj archives: xxmaj your xxmaj downloads< / title>
+<meta http-equiv="pics-label" content='(pics-1.1 "http: / / xxrep 3 w .classify.org / safesurf / " l gen true for "https: / / xxrep 3 w .classicalarchives.com / " r (ss~~ xxrep 3 0 1))' / >
+<meta http-equiv="pics-label" content='(pics-1.1 "http: / / xxrep 3 w .icra.org / ratingsv02.html" comment "single file v2.0" l gen true for "https: / / xxrep 3 w .classicalarchives.com" r (nz 1 vz 1 lz 1 oz 1 cb 1) "http: / / xxrep 3 w .rsac.org / ratingsv01.html" l gen true for "https: / / xxrep 3 w .classicalarchives.com" r (n 0 s 0 v 0 l 0))' / >
+<meta http-equiv="content-language" content="en" / >
+<meta name="robots" content="index, xxup follow" / >
+<meta name="author" content="classical xxmaj archives xxup llc" / >
+<meta name="title" content="classical xxup music xxup archives - xxup classical xxup music" / >
+<meta name="subject" content="classical xxmaj music xxmaj archives" / >
+<meta name="publisher" content="pierre xxup r. xxmaj schwob" / >
+<meta name="language" content="english" / >
+<meta name="rights" content="copyright (c) xxmaj classical xxmaj archives, xxup llc" / >
+<meta name="description" content="the largest classical music site on the web. xxmaj hundreds of thousands of classical music files. xxmaj most composers and their music are represented. xxmaj biographies, reviews, playlists and store." / >
+<meta name="keywords" content="classical music,classical archives,listen to classical music,play classical music,download classical music,listen to complete works,play complete works,listen to full classical music,play entire classical music works,browse classical music,classical music downloads,classical music streams,classical music streaming,classical music albums,classical music works,classical music composers,classical music artists,classical music performers,classical music instruments,classical music periods,free classical music,classical music midi,classical music files,free classical music midi,classical music performances,free classical music performances,classical music videos,classical music player,classical music blog,classical music interviews,performers interviews,classical music editorial,music festivals,classical music festivals,classical music concerts,musicology,composer biographies,classical music collection,classical music library,classical music labels,classical music store,classical music online,online classical music,online music store,midi,mp3,aac,audio,music,playlists,orchestras,baroque,classical,romantic,modern,concerts,opera,chamber music,symphony,concerto,sonata,recital,classicalarchives,classicalarchives.com,free internet radio,classical radio" / >
+
+<link rel="apple-touch-icon" sizes="180x180" href=" / apple-touch-icon.png" / >
+<link rel="icon" type="image / png" sizes="32x32" href=" / favicon-32x32.png" / >
+<link rel="icon" type="image / png" sizes="16x16" href=" / favicon-16x16.png" / >
+
+<link rel="alternate" type="application / rss+xml" href=" / news.xml" / >
+
+
+<link rel="stylesheet" type="text / css" href=" / css / ca-2.css?r=85878" / >
+
+
+<!--[if xxup ie 6]>
+<style type="text / css">
+.box .bd, .box .bd .box .bd {
+ position:static;
+ / * overflow:visible; * / 
+}
+< / style>
+< / style>
+<![endif]-->
+<!--[if xxup ie 7]>
+<style type="text / css">
+.box .bd, .box .bd .box .bd {
+ position:relative;
+ / * overflow:auto; * / 
+}
+< / style>
+<![endif]-->
+
+
+
+<script type="text / javascript" src=" / / xxrep 3 w .google-analytics.com / ga.js">< / script>
+
+
+
+<script type="text / javascript" src=" / / s7.addthis.com / js / 300 / addthis_widget.js # pubid=cma">< / script>
+
+<script type="text / javascript">
+var cma_base_url = 'https: / / xxrep 3 w .classicalarchives.com';
+var cookie_domain = '.classicalarchives.com';
+var is_subscriber = true;
+< / script>
+
+
+<script type="text / javascript" src=" / js / ca.js?r=86451">< / script>
+
+
+
+ <style type="text / css">
+ a.link {
+ color: # 800;
+ font-weight: bold;
+ }
+ li.heading {
+ padding-top: 3px;
+ padding-bottom: 3px;
+ }
+ span.heading {
+ font-size: 14px;
+ }
+ li.question {
+ padding-top: 3px;
+ padding-bottom: 3px;
+ }
+ a.question {
+ font-weight: bold;
+ }
+ ul.indent {
+ margin-left: 15px;
+ }
+
+ .downloadtable {width:100%;}
+ .downloadtable td {
+ height:22px;
+ padding:4px xxwrep 3 0 ;
+ }
+ div.dlexpdate { color: # 98 xxrep 3 0 1; }
+ .dlhd {background:url( / images / nv / nv_sprite.png) repeat-x 0 0;}
+ .dlorder {padding:5px 10px;}
+ .dlpurch {padding:5px 10px;}
+ .dlwork {font-weight:bold;padding-left:20px!important;}
+ .dltrack {padding-left:40px!important;}
+ .dlsize {padding-right:10px!important;text-align:right;white-space:nowrap;}
+ .dlbutton {width:110px!important;text-align:right;}
+
+ .wiazf {font-size:77%;display:block;margin-right:6px;}
+ < / style>
+ <script language="javascript" type="text / javascript">
+ function settodownloaded(elid) {
+ try {
+ yahoo.util.dom.addclass($(elid),'yui-button-redownload');
+ yahoo.btn[elid].set("label", 're-download');
+ } catch(x) {
+ yahoo.util.dom.removeclass($(elid),'yui-button-redownload');
+ }
+ return true;
+ }
+ / / toggle
+ function toggle_list(e) {
+ var e = window.event || e;
+ var target = e.target || e.srcelement;
+
+ if (target && target.nodename) {
+ while (target.parentnode && target.nodename != "li" && target.nodename != "body")
+ target = target.parentnode;
+ }
+
+ if (target.haschildnodes()) {
+ var children = target.childnodes;
+ for (var i = 0; i < children.length; i++) {
+ if (children[i].nodename == "ul") {
+ children[i].style.display = (children[i].style.display == "none" || children[i].style.display == "") ? "block" : "none";
+ break;
+ }
+ }
+ }
+ }
+ document.onclick = toggle_list;
+
+ function setnotice() {
+ yahoo.util.connect.asyncrequest('post', ' / ajax / s-request-dlmanager-notice.html', {
+ success : function(o) {
+ try {
+ var rs = yahoo.lang.json.parse(o.responsetext);
+ if (yahoo.lang.isobject(rs)) {
+ if (yahoo.lang.isboolean(rs.s)) {
+ if (rs.s xxrep 3 = true) {
+ yahoo.cma.doredirect(rs.r);
+ yahoo.util.dom.addclass("emailnotification",'txtred');
+ $("emailnotification").innerhtml = "<strong>thank you.< / strong> xxmaj you will be notified as soon as the xxmaj download xxmaj manager becomes available.";
+ } else {
+ var okbtn = function() {
+ this.hide();
+ yahoo.cma.doredirect(rs.r);
+ };
+ if (yahoo.lang.isnumber(rs.f.c)) {
+ if (rs.f.c == 0) {
+ showmsgbox('info', 'no xxmaj changes xxmaj made', 'please review your information and try again.', null, okbtn, null);
+ } else {
+ showmsgbox('error', 'error', rs.f.m, null, okbtn, null);
+ }
+ } else {
+ showmsgbox('error', 'error', 'error xxmaj code: '+rs.f.c, null, okbtn, null);
+ }
+ yahoo.cma.loading.hide();
+ yahoo.cma.loading.destroy();
+ }
+ }
+ }
+ } catch(x) {
+ okbtn = function() {
+ this.hide();
+ yahoo.cma.doredirect(rs.r);
+ };
+ showmsgbox('error', 'error', x, null, okbtn, null);
+ yahoo.cma.loading.hide();
+ yahoo.cma.loading.destroy();
+ }
+ },
+ failure : function(o) {
+ okbtn = function() {
+ this.hide();
+ yahoo.cma.capm.show();
+ };
+ showmsgbox('error', 'connection xxmaj failed!', 'we were not able to save your account changes. xxmaj please try again.', null, okbtn, null)
+ yahoo.cma.loading.hide();
+ yahoo.cma.loading.destroy();
+ }
+ });
+ }
+
+ function cleartracks() {
+ showconfirmation('please xxmaj confirm', '', 'this will remove the grayed-out tracks that you have previously downloaded from this page.<p>(note: xxmaj we cannot detect if a download was successful, only that you initiated it.)< / p><p>are you sure you want to clear these tracks from this page?< / p>',
+ 'yes', function() {
+ $('downloadform').submit();
+ },
+ 'no', function() {
+ this.hide();
+ },
+ true);
+ return false;
+ }
+ < / script>
+ < / head>
+ <body id="cma">
+ 
+
+
+<script>
+_udn = ".classicalarchives.com";
+< / script>
+
+<iframe id="yui-history-iframe" src=" / images / nv / nv_sprite.png">< / iframe>
+<input id="yui-history-field" type="hidden" / >
+<a name="top" id="top">< / a>
+
+<div>
+
+ <div id="doc3" class="sides">
+ <div id="hd">
+ 
+
+
+
+ <div id="cma-header">
+ <div id="cma-header-prim">
+ <a href=" / " class="logo"><img src=" / images / a_logo.png" alt="home" / >< / a>
+ 
+ <a href="https: / / blog.classicalarchives.com / " class="blog"><img src=" / images / blog.png" alt="blog" / >< / a>
+ <a href=" / howto / tutorials.html" class="howto"><img src=" / images / howto.png" alt="how xxmaj to" / >< / a>
+
+ <div id="cmasearch" class="search yui-hidden">
+ <form id="cmasearchform" method="get" action=" / search" onsubmit="return cmasearch.submitstate;">
+ <div id="cmasearchbx">
+ <div id="cmasearcherr" class="yui-hidden">please enter a search term< / div>
+ <div id="cmasearching" class="yui-hidden">searching …< / div>
+ <div id="cmasearchdesc" class="yui-hidden">search for xxmaj music< / div>
+ <input id="cmasearchtxt" type="text" name="q" class="yui-hidden" / >
+ < / div><input id="cmasearchbtn" type="submit" title="search" value="" / >
+ <ul class="cmanv srchnv">
+ <li class="expand"><a href=" / advanced_search.html"><span class="bd">advanced xxmaj search< / span><span class="end">< / span>< / a>< / li>
+ < / ul>
+ < / form>
+<script type="text / javascript">
+var cmasearch = yahoo.cma.search.clone();
+cmasearch.init('cmasearchtxt', 'cmasearchbtn', 'cmasearchform', 'cmasearch');
+< / script>
+ < / div>
+
+ < / div>
+ 
+ <style>
+ # cma-header-misc-nav .navgiftsbtn {width:150px;height:22px; background-image:url(' / images / xxup cta / 160705 / navbar_send_gift_cta.png') !important;background-repeat:no-repeat;background-position:22px -22px !important;}
+ # cma-header-misc-nav .navgiftsbtn:hover {width:150px;height:22px; background-image:url(' / images / xxup cta / 160705 / navbar_send_gift_cta.png') !important;background-repeat:no-repeat;background-position:22px 0px !important;}
+ < / style>
+ <div id="cma-header-misc-nav">
+ <a id="navgiftslink" class="yui-hidden" href=" / secure / gift / select.html?bid=nbg"><div class="navgiftsbtn" style="float:right;width:185px;position:relative;top:-4px;">< / div>< / a>
+ < / div>
+ <script>
+ if (location.protocol == "http:" && location.href.indexof("secure") == -1)
+ yahoo.util.dom.removeclass("navgiftslink", "yui-hidden");
+ < / script>
+ <div id="cma-header-sec-nav">
+ < / div>
+ <div id="cma-header-prim-nav">
+ < / div>
+ 
+ <div style="float:right; padding:10px 15px 0 0;">
+ <a href=" / secure / cart / display.html" class="link" style="color: # xxrep 3 0 ; text-decoration:none;">
+ <span style="font-size:10px;" id="cma-header-cart-counts">< / span>
+ <img style="vertical-align:middle;" src=" / images / b_view-cart.png" alt="view xxmaj cart" / >
+ < / a>
+ < / div>
+ <div id="cma-header-member">
+ <div id="cma-header-testimonials" style="float:left; margin-top:14px" class="yui-hidden">
+ <a href=" / testimonials.html">
+ <img style="vertical-align:middle;" src=" / images / testimonials_link.jpg" alt="testimonials" / >
+ < / a>
+ < / div>
+ <div id="cma-header-member-login" class="yui-hidden">
+
+ < / div>
+ <div id="cma-header-member-welcome" class="yui-hidden">
+ <a href=" / secure / logout.html" class="memberlogout more">logout& <img src=" / images / b_black-arrow.gif" alt="" class="arrow lm" / >< / a>
+ <span class="memberwelcomemsg">welcome <a href=" / secure / youraccount.html" id="welcome-name">< / a>< / span>
+ < / div>
+ < / div>
+
+ <div class="yui-hidden" id="cma-stage-music">
+
+ < / div>
+<script type="text / javascript">
+yahoo.cmanav.data = null;
+yahoo.cmanav.navigator = null;
+yahoo.util.event.oncontentready("cma-header-prim-nav", function () {
+ yahoo.util.connect.asyncrequest('get', ' / ajax / nav-data.json', {
+ success: function(o) {
+ try {
+ yahoo.cmanav.data = yahoo.lang.json.parse(o.responsetext);
+
+ yahoo.cmanav.navigator = new yahoo.widget.navigator("cma-header-prim-nav", {
+ "navigation":yahoo.cmanav.data,
+ "secondarynavigation":"cma-header-sec-nav"
+ }
+ );
+
+ var navid = "2";
+ var navidparam = param("navid");
+
+ var navidcookie = readcookie('cma_navid');
+ if (navid == "2" && navidparam) {
+ navid = navidparam;
+ createcookie(
+ "cma_navid"
+ , navid
+ , 0
+ );
+ } else if (navid == "2" && navidcookie) {
+ navid = unescape(navidcookie);
+ }
+ yahoo.cmanav.navigator.set("default", navid);
+ yahoo.cmanav.navigator.render();
+ } catch (x) {
+ yahoo.cmanav.data = null;
+ yahoo.cma.dmsg('error','error!','sorry, but there was a problem parsing this page.', x);
+ return;
+ }
+ },
+ failure: function(o) {
+ if(o.status > 0) {
+ yahoo.cmanav.data = null;
+ yahoo.cma.dmsg('error','error!','an error occurred. xxmaj please try again or contact us if the error persists.', 'code: '+o.status);
+ }
+ }
+ });
+}, this);
+
+ < / script>
+ < / div>
+
+ <div id="cma-stage" class="cma-stage" class="yui-hidden">< / div>
+ < / div>
+ <div id="bd">
+ <div id="cma-doc">
+ <div id="cma-stage-message" class="yui-hidden">< / div>
+ <div class="stage-content">& < / div>
+ <div id="cma-main" class="content pbottom yui-hidden">
+
+ <div id="mmsg">< / div>
+<div id="bcnav"><ul>
+<li class="first"><a href=" / ">home< / a>< / li>
+<li>your xxmaj downloads< / li>
+< / ul>< / div>
+
+ <table class="master" cellspacing="0">
+ <tr>
+ <td id="main">
+ <div id="content">
+ <!-- xxup content -->
+ <form name="removal_form" id="downloadform" method="post">
+ <input type="hidden" name="remove" value="remove" / >
+ <div class="box">
+ <div class="nav">< / div>
+ <div class="hd"><h1>your xxmaj downloads< / h1>< / div>
+
+ <div class="bd pad" style="overflow:hidden;">
+
+ <div id="download_instructions" class="bd borderbottom">
+ <table>
+ <tr>
+ <td nowrap="nowrap" style="padding:0 8px 0 0">
+
+ <strong>download with our xxmaj download xxmaj manager.< / strong>
+ <ol class="dec">
+ <li>
+ <span class="yui-button yui-push-button" style="margin:0;" onmouseover="cbtn(this);"><span class="first-child"><a href=" / download-manager / ">install it< / a>< / span>< / span>
+ < / li>
+
+ <li>
+ xxmaj open it.
+ <br / >
+ <span style="font-size:11px">
+ (start > xxmaj all& xxmaj programs > xxup cma& xxmaj download& xxmaj manager)
+ < / span>
+ < / li>
+ <li>
+ xxmaj log in.
+ < / li>
+ <li>
+ xxmaj click &'start xxmaj downloading&'.
+ < / li>
+ < / ol>
+
+ < / td>
+ <td>
+ <strong>or, download with your browser.< / strong>
+ <br / >
+ <ol class="dec">
+
+ <li>
+ <strong>right< / strong>-click any &'download&' button.
+ < / li>
+ <li>
+ xxmaj choose &'save xxmaj link xxmaj as …&'.<br / >
+ < / li>
+
+ <li>
+ xxmaj choose a download folder
+ <br / >
+ (e.g., your xxmaj desktop).
+ < / li>
+ <li>
+ xxmaj click &'save&' to begin download.
+ < / li>
+ <li>
+ xxmaj repeat all steps for each download.
+ < / li>
+ < / ol>
+ < / td>
+ < / tr>
+ < / table>
+ < / div>
+
+ <div class="box mbottom">
+ <div class="bd borderbottom dlhd" style="overflow:hidden;">
+
+ <div class="rs dlorder"><strong>free downloads made on:< / strong> xxmaj aug 18, 2018 (00:00:00 xxup utc)< / div>
+
+ <div class="clearsm">< / div>
+ < / div>
+ <div class="bd">
+ <div class="dlexpdate" align="center" width="100%">you have until xxmaj sep 17, 2018 to download these tracks.< / div>
+ < / div>
+ <div class="bd pad" style="overflow:hidden;">
+ <table class="downloadtable" cellspacing="0">
+
+ <tr>
+ <td colspan="2">
+ < / td>
+ <td class="dlbutton">& < / td>
+ < / tr>
+
+ <tr>
+ <td colspan="2">
+ <strong>album:< / strong> classicalarchives xxmaj collection
+ < / td>
+ <td class="dlbutton">& < / td>
+ < / tr>
+
+ <tr>
+ <td class="dlwork" colspan="2">
+ xxmaj frédéric xxmaj françois xxmaj chopin: 12 xxmaj etudes, xxmaj op.10
+ < / td>
+ <td class="dlbutton">& < / td>
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ xxmaj no.1 in c ('waterfall')
+ < / td>
+ <td class="dlsize">
+ 9 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_1_1" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / lzewlhll-5ann4tugvxb9lwjypwfugpsl4bscpz7krony2xajbgrwsao-ven7fq9ou2q4fgvkcj4ywoah9tm1jwkv-a3qpapqwjqaoqd62ir2pcfx_kiwim2hq7c6mbou1svqgodisrilzm0k5paiw / 5ta_lj3zpax0ninmkonitg / at01op10.mid" onclick="return settodownloaded('dlbtn_1_1_1_1');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ xxmaj no.5: xxmaj vivace in xxmaj gb ('black xxmaj keys')
+ < / td>
+ <td class="dlsize">
+ 14 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_1_2" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / ljmmuehyq2o76frriyonhnacf5yw3vkllygp8zfba2ukzfuqyyjmwgtiztzvlugopjzxh7fm6hujh6u97vq--ejpuol3tvji5y3q1g5vyndaxo3phlzvaoc51jhhwk0vo6k6uthoyagd1doi-ju5aa / qkx0yuz1bfheon6q0fnlta / at05op10.mid" onclick="return settodownloaded('dlbtn_1_1_1_2');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ xxmaj no.9: xxmaj allegro molto agitato in xxup f-
+ < / td>
+ <td class="dlsize">
+ 20 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_1_3" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / iagnxi7itc_k6pn5ymt7mmjdphxj9enoeatggggotfp9ribdt9qntw32ef0oe8vqholjb0swpqkdqb4boddscxd9rtbzcrcfnjlm1ulyqx4mldzqshxunzwqkhfipss_-z7if3motbwtg4-ndiguyw / om9avudlodvbwiwzlug8xa / at09op10.mid" onclick="return settodownloaded('dlbtn_1_1_1_3');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ xxmaj no.12: xxmaj allegro con fuoco in xxup c- ('revolutionary')
+ < / td>
+ <td class="dlsize">
+ 15 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_1_4" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / llti1gnxtivlublv9tojidyjqvbbyblzaor29ocpfq1hj1va3lv3msd1voe2l8s-thikw7hn9okgm5tvhwetm26g63cnmkvpat70qucsf6yzcdubwlcwsdo0j5cj7b4wzwnmqfepfcpnufk69iuiiq / rs9xcqzepuuxhpsb6b9ota / at12op10.mid" onclick="return settodownloaded('dlbtn_1_1_1_4');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dlwork" colspan="2">
+ xxmaj frédéric xxmaj françois xxmaj chopin: xxmaj ballade xxmaj no.4 in xxup f-, xxmaj op.52
+ < / td>
+ <td class="dlbutton">& < / td>
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ xxmaj ballade xxmaj no.4 in xxup f-, xxmaj op.52
+ < / td>
+ <td class="dlsize">
+ 53 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_2_1" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / eop613j5nj6kamkhj9rf86qrdohjhwxv-piobuzjynr2knbul-bf4ukov-s8yruqu6xgt_j2zx_rmnulsdkdytm_en11uxmqnsxgrlzhb74mmllpuo0evtfmmj04aqjda8zlwe0036apvu9vauvnba / md_jvgrp5ahqhrk0tl4t7w / ballade4.mid" onclick="return settodownloaded('dlbtn_1_1_2_1');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dlwork" colspan="2">
+ xxmaj frédéric xxmaj françois xxmaj chopin: xxmaj ballade xxmaj no.1 in xxup g-, xxmaj op.23
+ < / td>
+ <td class="dlbutton">& < / td>
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ xxmaj ballade xxmaj no.1 in xxup g-, xxmaj op.23
+ < / td>
+ <td class="dlsize">
+ 38 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_3_1" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / wmkwugrjrl26sfu2t10kksjbgnzl4ikzffjdyax8fpizjgifzivszudxpc6yfcims3khtbq217g9pjflsmvg9h0nih-5amzhm7ittbssn7ifber70_q3msf4jo6dgz49paiqligxqremrbhnanirng / t56zqics-sgap07qvg7cww / chop23b.mid" onclick="return settodownloaded('dlbtn_1_1_3_1');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dlwork" colspan="2">
+ xxmaj frédéric xxmaj françois xxmaj chopin: 5 xxmaj mazurkas, xxmaj op.7
+ < / td>
+ <td class="dlbutton">& < / td>
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ xxmaj no.1 in xxmaj bb
+ < / td>
+ <td class="dlsize">
+ 13 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_4_1" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / woaz-2ylsfvodw2k2n0ornxuhbtssgcsftmta5gskptrufywqfqat9kubqhp9n_xhhvbkv2t4rldts7yvkigpw54b7k7qf3j7ipkaghjhaczkyt_xtdhabcctw3rzum2bccydm-582sd_hli6wdw5w / m6kljdoboozac4sialm6ag / mazrka05.mid" onclick="return settodownloaded('dlbtn_1_1_4_1');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ xxmaj no.2 in xxup a-
+ < / td>
+ <td class="dlsize">
+ 16 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_4_2" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / x1_q9g83zngwy4t6krbedzecqqcwnak-ybfk0qcsen--3wv7kxlcdw0o9z2yhh0kegtrmourbjxb3wl5mpfhddfe6iahbn3twc7og0yix-eckf3nxsdlj6m3msd5sdomuvxzaxrsukwhesbrxonldw / elfbhddjbojifs2aa7eqfa / mazrka06.mid" onclick="return settodownloaded('dlbtn_1_1_4_2');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ xxmaj no.3 in xxup f-
+ < / td>
+ <td class="dlsize">
+ 14 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_4_3" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / p9iu55lc3hfd134cwmxtxirp5agbwarey6ljtr19lc3b1vbt7vhplh2uncfuts6vl3092v3h2k34xttmydfrda7bid6iyvfnjyapwfavfrevhzjubfzeb1ukcdc3gdh7e3crupyb6i4cbgnzu_p1oq / fh2i1brounxkn49_ovv57a / mazrka07.mid" onclick="return settodownloaded('dlbtn_1_1_4_3');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ xxmaj no.4 in xxmaj ab
+ < / td>
+ <td class="dlsize">
+ 10 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_4_4" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / xr-ccb21h9cwpp9pmvepgpdg0rmgsvilocseimjqlwdf1sqkg_4xddpnc0mvxf75p9u-lb2zconpcil3vkf9kqky6vv0j7hvtp5xcfujtvfqwwotpkysrqk-ymx9yk4-x8fxpuyredkvr0nm2fh0qa / gsqv80ddws5t43pckoe_xq / mazrka08.mid" onclick="return settodownloaded('dlbtn_1_1_4_4');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ xxmaj no.5 in c
+ < / td>
+ <td class="dlsize">
+ 5 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_4_5" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / tdv8dgaydsyfhckxulc5iyhvux4cggj8ogy3zjecvyrrvemgkge6g_hkzw7qioup7tm0vcsa2gersx4rnz7oiyzwtci4bv03m_yt0fv-bfd7ljvogsnv6zofvdsth-fkubhvbm5wddxdg3tfj7qp3w / q4ovwguigvo9ejpmtdhm7a / mazrka09.mid" onclick="return settodownloaded('dlbtn_1_1_4_5');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dlwork" colspan="2">
+ xxmaj frédéric xxmaj françois xxmaj chopin: 3 xxmaj mazurkas, xxmaj op.56
+ < / td>
+ <td class="dlbutton">& < / td>
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ xxmaj no.1 in b
+ < / td>
+ <td class="dlsize">
+ 24 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_5_1" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / 4mfevfoqaaklgnxq0sudbdu3a4uqva4lsvcm-h0eduvev6gbh-f2iyzptxcvmdkoez3ok6srdq4r7pgf-f8jh5g3tx-g33njkx7hnktyr3s9i2gkdyvt8sipemtqpuqz_mdnwnelgqyriv3wr4yjzw / -dkgcbpszkwiqsfdrslkdq / mazrka33.mid" onclick="return settodownloaded('dlbtn_1_1_5_1');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ xxmaj no.2 in c
+ < / td>
+ <td class="dlsize">
+ 11 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_5_2" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / in3wxgd9labletfc46dmhojgae2-a0c xxrep 3 e 9kxls_fuh9wf9el19qgszgw04jygpqqkyhnscjpykptfydvg1yryklkskcxfulkgvnsdrm4jxnzb6xphfycfhiq-k-h-kqiqrqpbwvhoyatunb0jkxpw / s5sfdkrpivxpndkx-8ok9w / mazrka34.mid" onclick="return settodownloaded('dlbtn_1_1_5_2');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ xxmaj no.3 in xxup c-
+ < / td>
+ <td class="dlsize">
+ 25 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_5_3" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / qg1wqbqet8d6rwl2hxssqiqxsgjg7luhoprs0ju7wzcvk_ta3zyypedbennfalwmr5c55wwbw_rnwuvehtgimosz5jdilhshghuzucqsx9rtm6_ykuir52bz0p_ssv8jh3oe9havmt_bu9haojopqa / peau6yrho9euknzvndcytq / mazrka35.mid" onclick="return settodownloaded('dlbtn_1_1_5_3');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dlwork" colspan="2">
+ xxmaj frédéric xxmaj françois xxmaj chopin: 4 xxmaj mazurkas, xxmaj op.6
+ < / td>
+ <td class="dlbutton">& < / td>
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ xxmaj no.1 in f # -
+ < / td>
+ <td class="dlsize">
+ 15 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_6_1" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / yyja7vtjduixfkndvrraqz217q1-2-huuyry16d627376pg1zrduvelecshzl6nhdv6bj3iaymmxn-6-whxhwznfpc3fqnhlncbnl5qzwcip3drax6xvgldyiizxikpadarwqhpntfhc963vlg37pw / 3lbthhdmghe_xgitpqdlng / mazrka01.mid" onclick="return settodownloaded('dlbtn_1_1_6_1');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ xxmaj no.2 in c # -
+ < / td>
+ <td class="dlsize">
+ 12 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_6_2" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / b5uanr5yt8ejvwwb2mdukhoiz94yuqzoibl23dugp8nsyorciuenpypb9j_j5hkvwujrxs2dx75iyxatkaq4bnsdj4gngecxizitbm9glkme9yjjgwmq4_y1lzu6v4rvymahzjsvvqtdaumv6wpybw / sicml-oytuoumhc3mllvda / mazrka02.mid" onclick="return settodownloaded('dlbtn_1_1_6_2');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ xxmaj no.3 in e
+ < / td>
+ <td class="dlsize">
+ 13 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_6_3" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / sxmwj9dtaznaryie0awkydmg3rofhvfupajrspddhg2o9zjh5hgldxiqvwm-29ukxd1qfg_awvqc7okmli1plxrwe2seu_9mt9c5p6qu_5msfwrthr9-yhpli5wf_tvb7g1c-ms6hr7r7s8dxic_qg / ttz3060bfrg4fxdi3fgl0q / mazrka03.mid" onclick="return settodownloaded('dlbtn_1_1_6_3');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ xxmaj no.4 in xxmaj eb-
+ < / td>
+ <td class="dlsize">
+ 5 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_6_4" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / vtw1rkqumn8abbebunibwnldip7blrbln2rfq0bfz108kkbjqedsmx5d0ppl-llbo5dcbdrjvgtyiv2jphqprm6qcv04yxpx0mxr3mdlmk3n_d1v9v0lhuo1xutfa6_xovrnkvkhrp3nzz9t-v8ica / e7sgybkgwzv0xwkbtwvnzq / mazrka04.mid" onclick="return settodownloaded('dlbtn_1_1_6_4');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dlwork" colspan="2">
+ xxmaj frédéric xxmaj françois xxmaj chopin: 3 xxmaj mazurkas, xxmaj op.50
+ < / td>
+ <td class="dlbutton">& < / td>
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ xxmaj no.1 in g
+ < / td>
+ <td class="dlsize">
+ 13 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_7_1" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / ogmhavhvqjt2aquwa2mp-1s92cjxd7gxfzev6u5kjxtw66s9m1u5zhui_ocmrwtmryzkfubnextlsifhjd5kwfsgfvc3f3eyyp-osfqcw1ggbbogzci1nkbxentmahafvx7xcwi6w9rdftqmwujvra / scmmgpktldjblokpzuaszw / mazrka30.mid" onclick="return settodownloaded('dlbtn_1_1_7_1');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ xxmaj no.2 in xxmaj ab
+ < / td>
+ <td class="dlsize">
+ 18 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_7_2" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / ergbao507zdnw_yvl5v8uufzprcn-lhqymjmu9r9ksixfcgjigxbm5-orsklwe7aqoi6p0tikw8hqkdeog_r0mokwrhc7668offl-psxvjewvvjmipoe2xq1xnogvsu2xmfhzihbgvhvhmbaq-e1aq / bubkvwvoofvs3nsem_1s5g / mazrka31.mid" onclick="return settodownloaded('dlbtn_1_1_7_2');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ xxmaj no.3 in c # -
+ < / td>
+ <td class="dlsize">
+ 23 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_7_3" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / gz8obcqg5rnu_wuubpecixhpq35bs2g9lc_vq_pte3nnos6odusigud6t4dz32zks8sna326apyp6lmlqjyoluacewjmlu3bpvi9spugyyhgvl3spcaivmltpuvhq6hlzwkhwaebif87nv5tqlhlua / bnggvx7oag4gbdiw6iwvxq / mazrka32.mid" onclick="return settodownloaded('dlbtn_1_1_7_3');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dlwork" colspan="2">
+ xxmaj frédéric xxmaj françois xxmaj chopin: 4 xxmaj mazurkas, xxmaj op.68
+ < / td>
+ <td class="dlbutton">& < / td>
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ xxmaj no.3 in f
+ < / td>
+ <td class="dlsize">
+ 7 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_8_1" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / livymmg0skaz0zhn1eycqggcz6r2p_akgstlhglxqvtzbf74dgkpknp2vlg0auu46y4dg5h_pz-affqckrmsvywyr-gdsmwdzu6jhahmsefxzboeyfhoru9tuehwdixzmaycb9bk_q5sbiu8vvw9pq / l2sc-lxnmffbq3i4bb3tsq / mazurka_.mid" onclick="return settodownloaded('dlbtn_1_1_8_1');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ xxmaj no.4 in xxup f-
+ < / td>
+ <td class="dlsize">
+ 7 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_8_2" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / iy7pycdibdyx9oblu4d9cmbej0qxy_z44uwjpbir02v2u_skjiwx9f8zxxmte-s3bae22s3aausgtgpchth4c5kdkkl3wkd8s43t7mxqpf0vzwss1zs3ighzl2g8xkgjdhqbjxurwtju2cgj_spivw / j35dlygo52fxmkhgmjstxw / mazurka.mid" onclick="return settodownloaded('dlbtn_1_1_8_2');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ xxmaj no.1 in c
+ < / td>
+ <td class="dlsize">
+ 14 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_8_3" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / ls4inzrddmqdhqor4ejikw8gixn2enrvsrhq7lh_bz-ztsau2ryz2vvkf3x0myo2n36i6wz6swmdsezrv2gcf2qnobx6b7h95yg9a1bpp69etmzpk27381box-qorjn6kjuhrotcypgtzuu2ttgzmg / g4o7sh9c22q_vpi1zk_kkw / mazrka46.mid" onclick="return settodownloaded('dlbtn_1_1_8_3');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ xxmaj no.2 in xxup a-
+ < / td>
+ <td class="dlsize">
+ 11 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_8_4" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / oy8jyy3plsjawp_nr24hg9dfxnfwmwvmfx6ybirltyqau8vro1mcorbdzmdg5vhnl-zzhqufgxifs3rr2izgwkktgh4jhxigivumdpvedx7lsddpytkzn_vt3r-tdz1dmywjkpzl01wnbp9dh9je-g / rcwoffl9n3xpb_hjh2eo2a / mazrka47.mid" onclick="return settodownloaded('dlbtn_1_1_8_4');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ xxmaj no.3 in f
+ < / td>
+ <td class="dlsize">
+ 7 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_8_5" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / f9iqcqtg6xrusejaiyvc3en9kzbxhsje5_3_wcy5ram9e5t0hl5vjtstkpfr_xdfbmwrjjeki0ohkuceu5rwaajyolu-n9dqe5diq1gq5w-rsnrrlfeanfmk5caxwmu6dvpxnpnc9k0cswaetjzgqq / avs0rlmedt7epmqvendudw / mazrka48.mid" onclick="return settodownloaded('dlbtn_1_1_8_5');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ xxmaj no.4 in xxup f-
+ < / td>
+ <td class="dlsize">
+ 7 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_8_6" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / 2cbzgj_kqfhzpzsnq6te4u8tlimb_ud5xzhhsrcrxafy3fx3zudavy73ukg1gk5qlxdtdcvd1v0c_kuuhpilzqho_flpol1rwn7mzuqsxrkdz1a5aagsvcribfzyocgnaisvhss0dduxc9_mpe6i-w / uptk9t8id7gmhka-o5xbvw / mazrka49.mid" onclick="return settodownloaded('dlbtn_1_1_8_6');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dlwork" colspan="2">
+ xxmaj frédéric xxmaj françois xxmaj chopin: 12 xxmaj etudes, xxmaj op.10
+ < / td>
+ <td class="dlbutton">& < / td>
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ xxmaj no.1 in c ('waterfall')
+ < / td>
+ <td class="dlsize">
+ 9 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_9_1" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / nm1b8-9ewkpdijc4cboxwupokwr3rqlx9kl8jhdktkt51te4d9yxz9odzlpyviplr9rimjnsa1ndxmjijmlffbgpjlbfe8crys0hujxnngqtxrxzukirptkzduhk1pue68numzurc2hihunsbyx3_w / xafgeyufg_7jgnohmyh4dq / ch_10-1.mid" onclick="return settodownloaded('dlbtn_1_1_9_1');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ xxmaj no.2: xxmaj allegro in xxup a- ('chromatique')
+ < / td>
+ <td class="dlsize">
+ 10 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_9_2" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / ey9-0bgvh86gzqosesa7dy6fgry0shsidsufipsibyrwgd7qfke1eqlhmjdpkajmkr51qzjzjhbeenumj8sbo22yvlhjesczoyio-gjxlxsksbbicujznhq7kphq3bhfoulztnziu80-ezpi8uov8g / u421hqh2-qtiecygu-xz5w / ch_10-2.mid" onclick="return settodownloaded('dlbtn_1_1_9_2');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ xxmaj no.5: xxmaj vivace in xxmaj gb ('black xxmaj keys')
+ < / td>
+ <td class="dlsize">
+ 11 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_9_3" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / benjrlxtbbsoj8hk-uct_ak5sduna35jghw9kvtt7faq4mikt_jqldfzwyzhgpb7_gtni2hmehh1avri1fxfaxcywew0lcdpkjm6aaqojuhgb873appz4oqbf3fnvzjkgdosumdumzoj3t_jjrqrhg / meagxivquu4vhehphq-ubw / ch_10-5.mid" onclick="return settodownloaded('dlbtn_1_1_9_3');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ xxmaj no.6: xxmaj andante in xxmaj eb- ('lament')
+ < / td>
+ <td class="dlsize">
+ 7 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_9_4" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / gcfdimrtwmiv2loaf4tczpvohr8qhucrm6bwyvy61gnumtn5t56elhvnfukkvvakmbslxnv51q8owkyrkxfbj0g4quf38wqzmtwemmmuykpuousimlfqanqq2n_fmsi7yw87tbi40bt7frcxoys0wg / xhferzdvyot6cfhqtpvudq / ch_10-6.mid" onclick="return settodownloaded('dlbtn_1_1_9_4');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ xxmaj no.7: xxmaj vivace in c ('toccata')
+ < / td>
+ <td class="dlsize">
+ 13 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_9_5" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / g3ti6xanni8ioebv_ahbb8kv5ch7cj0vpjtdrmjgmu6efuebeaplo5jjk9gg2fut4jbbwkg0dh0bs2gfyqouvoil5vmumuuw2e0unfripeznvcw-6dw7pzuph1hme7aqqunvl2vngi_6glvt7bcm6g / 6w5v-qrhv-l-9ypjxcihba / ch_10-7.mid" onclick="return settodownloaded('dlbtn_1_1_9_5');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ xxmaj no.8: xxmaj allegro in f ('sunshine')
+ < / td>
+ <td class="dlsize">
+ 16 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_9_6" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / yrttr1d5kymbgikqzpy1kugjwyzr1katn7btlz2nnworqvlolrs7ygsq6_shvvgpvm6ru-hvzr4hmb1zmkn0_tj2ibky1x2ydsanbodcnxsey8o1aie8u-mdch1_obrnvlb9fukibxy7snbj3-qjkw / rhgybjjgjtzyop4s5bkyxq / ch_10-8.mid" onclick="return settodownloaded('dlbtn_1_1_9_6');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ xxmaj no.11: xxmaj allegretto in xxmaj eb ('arpeggio')
+ < / td>
+ <td class="dlsize">
+ 13 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_9_7" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / j3a_egpcyyajkuybaxnwuxm3pmqsifx9iv1aralnnzpzg8jgym6uxxkdaoq_i4jonkirlq-_mcsi_i4n3xbhxkzkqcw7gvcmtkov5poncu8k9hm43j6gyvva6iemfaat4aznoulcyysytdpodlpomg / k-d_khpzvctgtmc3cibyvq / ch_10-11.mid" onclick="return settodownloaded('dlbtn_1_1_9_7');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dlwork" colspan="2">
+ xxmaj frédéric xxmaj françois xxmaj chopin: 3 xxmaj mazurkas, xxmaj op.63
+ < / td>
+ <td class="dlbutton">& < / td>
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ xxmaj no.1 in b
+ < / td>
+ <td class="dlsize">
+ 12 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_10_1" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / kwierdg2g7h2t9uw0myskrmbobmv-l7re_etrz_gju3up-wym_llkvg3ljjhs2nj3lw4g1wloveykhsyyzcddjyptb_ubyb1gfprs5hxtzojckdm3kfiexw3qbcudfef0a8puvfrkzdb0caiak18uw / ysb0m4gtmxds0j9l0aq1rg / mazrka39.mid" onclick="return settodownloaded('dlbtn_1_1_10_1');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ xxmaj no.2 in xxup f-
+ < / td>
+ <td class="dlsize">
+ 7 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_10_2" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / hsopjapfx2-vo1jjrkgx3ktjga3cvo38cyrbsp4nvsvfyaq6wqihwmqmsmhqms4skga5ocqawafzmcqsjnq1k6vdo3zch0ublgoxn-j_ajpm6q7batgpapifdfwd478all4ccsoni8pdsr1ss68lzg / evngkndy4tukpwyny4l6ua / mazrka40.mid" onclick="return settodownloaded('dlbtn_1_1_10_2');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ xxmaj no.3 in c # -
+ < / td>
+ <td class="dlsize">
+ 9 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_10_3" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / 8msags2v-kqmvjvvsyi14soudz7fenp23v77yuh_qpnpnguj7nwmqn8wterduwrx31he1tkbpz1pjtousxx8aazedpwn_t5-d8d1wobbn3bm8mt39szz4xzf2md3l5xmgrqhy-k6jsolrwpafbkrgq / vvifkez8dmlwjmqnf4mfuq / mazrka41.mid" onclick="return settodownloaded('dlbtn_1_1_10_3');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dlwork" colspan="2">
+ xxmaj frédéric xxmaj françois xxmaj chopin: xxmaj impromptu xxmaj no.3 in xxmaj gb, xxmaj op.51
+ < / td>
+ <td class="dlbutton">& < / td>
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ xxmaj impromptu xxmaj no.3 in xxmaj gb, xxmaj op.51
+ < / td>
+ <td class="dlsize">
+ 21 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_11_1" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / emqz1d76eywwcfyyhs8cajbiuvjq99q4cuhj3xb56w7-qdksdzubdkrfjg7pgzkdf4ijzyuk6a50w-r6jhkyfm2ui-ukm7afuzm96uzgjsvzn3bf6jxrxqqb2ajugpjfj9sbzfy4behbmqyo_l598a / ccupalgrkh__w6wold7-7a / chpnimpu.mid" onclick="return settodownloaded('dlbtn_1_1_11_1');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dlwork" colspan="2">
+ xxmaj frédéric xxmaj françois xxmaj chopin: xxmaj ballade xxmaj no.1 in xxup g-, xxmaj op.23
+ < / td>
+ <td class="dlbutton">& < / td>
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ xxmaj ballade xxmaj no.1 in xxup g-, xxmaj op.23
+ < / td>
+ <td class="dlsize">
+ 56 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_12_1" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / qr6psvxk0qjjmle9d8-gurakx52nkypsgvz4lxcjhtjxqlwkplygj0hcxklkteg-axor1-2ow1ng38igjeos7fbvxjufbrtbob2n4bokeuujxatpaf2khjgeej_r2tyvffdgzzt_tduynzucig3-qg / 5hvi-aslyewcjx8ye1ghva / ballade1.mid" onclick="return settodownloaded('dlbtn_1_1_12_1');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dlwork" colspan="2">
+ xxmaj frédéric xxmaj françois xxmaj chopin: 3 nouvelles études, xxup ct.38-40
+ < / td>
+ <td class="dlbutton">& < / td>
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ xxmaj no.2 in xxmaj db
+ < / td>
+ <td class="dlsize">
+ 10 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_13_1" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / zkghvnss_nt5jizbzh7m3u-kverardzny2_euika9yx8fwoksxniigdbfcpxmobliwe12ccbzw5uw2lr1d8irsqkrngtlgccs0iabhan7dkf8siy1zftfjb0cgzi3n-vepnnzsyr6leybor5q0owmq / jjeu5pfm5thnblm-jae0mq / nouv3.mid" onclick="return settodownloaded('dlbtn_1_1_13_1');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dlwork" colspan="2">
+ xxmaj frédéric xxmaj françois xxmaj chopin: xxmaj ballade xxmaj no.4 in xxup f-, xxmaj op.52
+ < / td>
+ <td class="dlbutton">& < / td>
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ xxmaj ballade xxmaj no.4 in xxup f-, xxmaj op.52
+ < / td>
+ <td class="dlsize">
+ 40 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_14_1" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / usytb-5smzfamsdvoxk56s3llc6nrofooaxggiwfjqu7o_cio_cxwmfyhcgf7xbjozsx3_vo63m_iw8swolksiuq-g1b1icw9infupme7ebddi59y0g8p0g8k10toq81yvifd3v-o2u-sgof0fyqww / 70fmvwsqorhbjdogrm_3rg / chopin-1.mid" onclick="return settodownloaded('dlbtn_1_1_14_1');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dlwork" colspan="2">
+ xxmaj frédéric xxmaj françois xxmaj chopin: 4 xxmaj mazurkas, xxmaj op.24
+ < / td>
+ <td class="dlbutton">& < / td>
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ xxmaj no.1 in xxup g-
+ < / td>
+ <td class="dlsize">
+ 12 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_15_1" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / vkufkchjzas3szhiuuin6hyrfb9c3ndvsjloididrvcrrxtu9rhcv_njjqgaemjqrgqylx0g0vrkdpqzutgowssmnoguix8vpfylvhhk-ajm3eburdoacxznto1-h4mut0ie0y812inrnidcu2u5jg / goivigk6ftce9ab-da1e5g / mazrka14.mid" onclick="return settodownloaded('dlbtn_1_1_15_1');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ xxmaj no.2 in c
+ < / td>
+ <td class="dlsize">
+ 14 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_15_2" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / nigyt2t5ch4dkxsbitcltbr6ucwwg6mr6twadojhhdwny8esfz0r34o2r36_hqtv5ms0xt1_oqjqrzmfqdam-g6rgqviav33d3lzna6dsb7u8cjxgo8cboevi8q0dgt_d5unothxrvyojm_ht5wm6a / aadqz041wobjmyrxfoyffg / mazrka15.mid" onclick="return settodownloaded('dlbtn_1_1_15_2');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ xxmaj no.3 in xxmaj ab
+ < / td>
+ <td class="dlsize">
+ 9 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_15_3" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / xkfvazwqngkfmtsha6zyto-2ivb-jdb_g8qrnj8297yy0_qa7owvywqxhf9r9ugil4wwarwuclodtolipjax5trfh0c7i8bgtkjseh7ahqogzoc0wxq_9bt9dkcpdx-zyf0xaucmiwpomq69g9aalg / npmdkbabed9vyt2nc3i1cq / mazrka16.mid" onclick="return settodownloaded('dlbtn_1_1_15_3');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ xxmaj no.4 in xxmaj bb-
+ < / td>
+ <td class="dlsize">
+ 23 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_15_4" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / 20jddejktvqn5p0vataeomzkkvkpk0upd1ii2dorggtrbjtd7h67gzxha5o_gvfeqtpvvhpjayz_fhfnqikn8c3_nxhyaqj_mzg2-ugw-8jm79mpk9fs26zf4nocfcx4678_idnrzi1k3a3u3jmdzg / yfkmf7rt88i-ottwksc4vg / mazrka17.mid" onclick="return settodownloaded('dlbtn_1_1_15_4');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dlwork" colspan="2">
+ xxmaj frédéric xxmaj françois xxmaj chopin: xxmaj ballade xxmaj no.3 in xxmaj ab, xxmaj op.47
+ < / td>
+ <td class="dlbutton">& < / td>
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ xxmaj ballade xxmaj no.3 in xxmaj ab, xxmaj op.47
+ < / td>
+ <td class="dlsize">
+ 39 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_16_1" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / i8vtdmbshrcvhbx0sruvkzx3rfojmi2iuhltvrvyrjpbiezlucdgkd-6--al671renozktnjvspqm3zbexfo_rzxnno64z35lbv2_vaf8_z722ressigcm-pp5qqijuclpi6qslnilwibo91bbxh1g / ryggtwkktsiqfhipl5o9fw / ch_ball3.mid" onclick="return settodownloaded('dlbtn_1_1_16_1');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dlwork" colspan="2">
+ xxmaj frédéric xxmaj françois xxmaj chopin: 12 xxmaj etudes, xxmaj op.25
+ < / td>
+ <td class="dlbutton">& < / td>
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ xxmaj no.2: xxmaj presto in xxup f- ('the xxmaj bees')
+ < / td>
+ <td class="dlsize">
+ 10 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_17_1" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / bppqgqdhvw6fhfdq-8g5mvppi9sc543eleq76ugxhczplzi-hopop5s22knj2csx8ll6ytexlv12fh4arevkirgzpxjm4bxhgoem0sc3okbymuk1urydah-fs2v3alazoxfyww6b8mecxcycyen_2a / 2y3xwncjxiv8fm_wujlhka / 25etude2.mid" onclick="return settodownloaded('dlbtn_1_1_17_1');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ xxmaj no.5: xxmaj vivace in xxup e- ('wrong xxmaj note')
+ < / td>
+ <td class="dlsize">
+ 21 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_17_2" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / 1elxlcgkm7gdthoojlauophnl_nh3wotwz-bkh2t3uxvgl8inq6jsyjtepl0mm332b6w8ej_5obt9ti8lwknpckriofjqpvvcdoi8aechcshsznex0wjox-d_h8vk_oexh5xdvyv0nwpmrhk83tz0g / wqeselcnmf2hgnuxuci3-g / op25_no5.mid" onclick="return settodownloaded('dlbtn_1_1_17_2');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ xxmaj no.6: xxmaj allegro in g # - ('thirds')
+ < / td>
+ <td class="dlsize">
+ 24 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_17_3" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / 7pgdocri6cbvmmctpsvnipkiglw594oqafga_l7bxrvd51rbeuseejtm0a_x9mq96awzufzw8_ep2wsqmqqnorvkibfjqhisbarthxt3cbxu7ex_humvg6p2dp2pnh_yxcjhonobfc7y_hokg7z2vw / atdolybc0tdxasp5csooha / op25_no6.mid" onclick="return settodownloaded('dlbtn_1_1_17_3');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dlwork" colspan="2">
+ xxmaj frédéric xxmaj françois xxmaj chopin: 3 xxmaj nocturnes, xxmaj op.9 (includes the famous 'nocturne in xxmaj eb')
+ < / td>
+ <td class="dlbutton">& < / td>
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ xxmaj no.1 in xxmaj bb-
+ < / td>
+ <td class="dlsize">
+ 25 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_18_1" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / 141lbpcfavro5oydtizepfjrrtqxcibsa2iwifrbi6ke3puudijn9cqhykzr35znsrzm1fbtedlj18_fbsbb1d31p4_bftwkrqozzmo75rffz1zmq91wisdzojmc5jds-ntjep6wg99xgq57drbjkw / 0l1yjb-touz3mkjfzcq4cw / cho9_1.mid" onclick="return settodownloaded('dlbtn_1_1_18_1');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dlwork" colspan="2">
+ xxmaj frédéric xxmaj françois xxmaj chopin: 4 xxmaj mazurkas, xxmaj op.17
+ < / td>
+ <td class="dlbutton">& < / td>
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ 1.no.1 in xxmaj bb. xxmaj vivo e resoluto
+ < / td>
+ <td class="dlsize">
+ 15 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_19_1" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / qir3grf-jqp4ep5qmxjpzcrnunjtprfk8sj1xfq-gdnqck27yfwynmrc1qdwe8mw35ziejguwhtph_yglsmskfclo828ph95jj5cyum5npomjrw7khjnixyjvg9e5ia3qwvmdhayw7nypnlroylpqq / drd-1dpo7cakyanzl5ku9q / mazrka10.mid" onclick="return settodownloaded('dlbtn_1_1_19_1');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ 2.no.2 in xxup e-
+ < / td>
+ <td class="dlsize">
+ 8 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_19_2" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / kzj5byzuqtwvjku6a38pgeebql332xhpvaisfvwbhxo9yiknkdxar378tlokdrzzwhrhiqk8mhgn1tpurikdodfzrp6qkcofo7wsg9s2gdiaxdmaco5wwfhlu35rpkxopr3fcwcw5k0muyoho3hc4q / kjycypkbvkcd2dixif3sna / mazrka11.mid" onclick="return settodownloaded('dlbtn_1_1_19_2');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ 3.no.3 in xxmaj ab. xxmaj legato assai
+ < / td>
+ <td class="dlsize">
+ 20 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_19_3" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / 1kpmaea-s66pf4jhg03dyw0yhkqtah9mcj5omgiqubuslwimyytxb8jroespdesiahvajjn3zj0aw3uctyikr1ztpnirmt9flzkzxcsnmx2f7flnfrw1uqzmv9isyqrefiw-4udthb5blj7huewkug / nj4izs9iurwcnmuxkrfdoq / mazrka12.mid" onclick="return settodownloaded('dlbtn_1_1_19_3');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ 4.no.4 in xxup a-
+ < / td>
+ <td class="dlsize">
+ 16 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_19_4" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / c9nevylw5pqodo4_hk-tdrnrwsycjgjlvojqy_oa7uzdo88tz3ke4jdfqdejmwhuuletpo3e9c7obunf6n6ndv-o2p9nihp3xxf3sxiafafov1cqiwlab7ro5br1s21rsszxjopmrmzqunk95xbp2g / e51e9lxelpfywnk1avjcna / mazrka13.mid" onclick="return settodownloaded('dlbtn_1_1_19_4');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dlwork" colspan="2">
+ xxmaj frédéric xxmaj françois xxmaj chopin: 12 xxmaj etudes, xxmaj op.25
+ < / td>
+ <td class="dlbutton">& < / td>
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ 12 xxmaj etudes, xxmaj op.25
+ < / td>
+ <td class="dlsize">
+ 224 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_20_1" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / rgvelmepklcvzpavpojjhistbcukjzcjmradabtkpzj_-my2jchslmmrifexyehusrhrqz0i4nr19mp2zw4ronlwybp_m_mvoy-dx-zyiw_fz1tqfbwpixmd6ogg5adqsgub-xwzwanbl9tgivchgw / dqiw_p6fniue10nljv0dfq / ch-et-25.mid" onclick="return settodownloaded('dlbtn_1_1_20_1');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dlwork" colspan="2">
+ xxmaj frédéric xxmaj françois xxmaj chopin: 4 xxmaj mazurkas, xxmaj op.41
+ < / td>
+ <td class="dlbutton">& < / td>
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ xxmaj no.1 in c # -
+ < / td>
+ <td class="dlsize">
+ 19 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_21_1" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / 3x3t5g2u25_vhsvwjocqjn-symvjnt5vvujnlznrjziu7jrxowxlsu4vwl2uuup-qgcyl2xvtgsbgjn5jy4g7vvyd8acmnqww1pct8td0-hp_fivlpyguwprchpypu3t7my1qjm_jnfzabyepzpkqq / o67nxq3wpmfi0xrogsezig / mazrka26.mid" onclick="return settodownloaded('dlbtn_1_1_21_1');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ xxmaj no.2 in xxup e-
+ < / td>
+ <td class="dlsize">
+ 9 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_21_2" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / 45j9w6jj7_vczsgcdwlqm2hufd-oiuh8c5y3s__jfoao4jnqhwcz61_yzk2-totuqezkc0l0it9vderhmzc167dlez4n0stauffkhrb2z4yxkjh8ggnd3sixhdvgra-6kvmnhe46_-sm-8yzjpzu-a / 9ulz-im4uzyeaqfolucvca / mazrka27.mid" onclick="return settodownloaded('dlbtn_1_1_21_2');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ xxmaj no.3 in b
+ < / td>
+ <td class="dlsize">
+ 9 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_21_3" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / wjtmuobkuk7fnl2utlhkstnff9ec8tpipnuanw4oo7twlmfvuh9rfjly3ntctjk7oogmyrspmcdnxygwycxao0qdvsuuzejefx9oid_eonnzpogmxdv3olhwy4-gk3jm1ejpvijzjrf932zqdbxfng / wkegabkjtawidg9afdn87q / mazrka28.mid" onclick="return settodownloaded('dlbtn_1_1_21_3');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ xxmaj no.4 in xxmaj ab
+ < / td>
+ <td class="dlsize">
+ 11 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_21_4" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / orhojrt_pgzuehux61ksti9_-v93gixoojz-mnsj4vjbeylp7inekr6mkyife_mdw5wxayrew-h6aaccihnm_s7nipvviztfojdcbwochyq_blrxg4svvom7keoordidzppddakmu-fwxryzmaz9sa / g26jpptmcpnkv5bviv8nrw / mazrka29.mid" onclick="return settodownloaded('dlbtn_1_1_21_4');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dlwork" colspan="2">
+ xxmaj frédéric xxmaj françois xxmaj chopin: 3 xxmaj nocturnes, xxmaj op.9 (includes the famous 'nocturne in xxmaj eb')
+ < / td>
+ <td class="dlbutton">& < / td>
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ xxmaj no.1 in xxmaj bb-
+ < / td>
+ <td class="dlsize">
+ 19 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_22_1" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / ahlc3ec6wtl8nvwlydcdc0sn7ad7dytjwkdiykcf5mwy53ep3lulzxcijwnmgnhr0lixau-an2kegiikjvdpu9gzjh2t0_2fmydl7ncm3ykj3isgepem3yakbwawchumonbbpsl7wkevjndfuy7loa / hdnpjdwlafj5n1w6grtaqa / chonoc01.mid" onclick="return settodownloaded('dlbtn_1_1_22_1');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ xxmaj no.2 in xxmaj eb
+ < / td>
+ <td class="dlsize">
+ 12 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_22_2" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / nppbpju4xm-tx83u173su2f9rkuemwutzcyg3mgingy6lwjbmb-scdyy19ydjk3bici-qpmd5rrdzsdq9kqt89ybsiifwpa4rfk-agwg6bpncx-af41lvrcrr7fx3otkt2ar9bpzalohfbc0p7ivnq / gguxfdhnjp0nbriut302nq / chonoc02.mid" onclick="return settodownloaded('dlbtn_1_1_22_2');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ xxmaj no.3 in b
+ < / td>
+ <td class="dlsize">
+ 28 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_22_3" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / cxydihozkisohln14y9heim8o1lgpwersrczzunt2ihzzenkzrckjg9juuk0s84wummhltyzhzu6rlh-flo_zb4m1wg-tyr-c2rnkltu8m6sfccm6caulggd-vcrr3gje_4gtbt3jx_lc_dvm3imlg / pzrfql8gnzg613umyi8gsw / chonoc03.mid" onclick="return settodownloaded('dlbtn_1_1_22_3');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dlwork" colspan="2">
+ xxmaj frédéric xxmaj françois xxmaj chopin: xxmaj ballade xxmaj no.2 in xxup f, xxmaj op.38
+ < / td>
+ <td class="dlbutton">& < / td>
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ xxmaj ballade xxmaj no.2 in xxup f, xxmaj op.38
+ < / td>
+ <td class="dlsize">
+ 26 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_23_1" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / vteekjivtl3ecpat0b0be_1bqkixqvaggigmmrxjnhmjx3oxwu7d_6nayudfoye9euzxh2evnnn5wbfhh6ltdl9jzgkivuluec1jy24irkf7-lsjfkiocavuzecvkdkrzu0p0fufvbytxemyqpcsqq / xpplyre364shoubwsl1ztg / chopinb.mid" onclick="return settodownloaded('dlbtn_1_1_23_1');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dlwork" colspan="2">
+ xxmaj frédéric xxmaj françois xxmaj chopin: 12 xxmaj etudes, xxmaj op.25
+ < / td>
+ <td class="dlbutton">& < / td>
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ xxmaj no.8: xxmaj vivace in xxmaj db ('sixths')
+ < / td>
+ <td class="dlsize">
+ 14 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_24_1" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / 7iyoulc0gb12lvgkzcplwbswbca1eslakk-tu xxrep 3 t mgu1q02kbmkga3_bkwbuchprwbxx8lbisvty9tyqn7wi3yt-7u683jsu2gpbhjcsg1md0cuycmdcygfeu9qvbjbapdawovze6jqzdwniqgv9tq / ysl0w46t-s96-9lveczcdg / lecpe8b.mid" onclick="return settodownloaded('dlbtn_1_1_24_1');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dlwork" colspan="2">
+ xxmaj frédéric xxmaj françois xxmaj chopin: 3 xxmaj nocturnes, xxmaj op.15
+ < / td>
+ <td class="dlbutton">& < / td>
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ xxmaj no.1 in f
+ < / td>
+ <td class="dlsize">
+ 17 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_25_1" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / xul4mnyqs7wntnbu_gkj_o4hsgvu8ceoedof6nirvdmbqety9uoavplz2ds7qm9tstdqcheccreaubptgye0i0jbn-g8ybi5on1ycrq-bflhlzfr6h7eyjp3e3r-te6femjcdtg4hlfi_txzpv7oia / kd1fvffkcjazuuyebhvqlw / chonoc04.mid" onclick="return settodownloaded('dlbtn_1_1_25_1');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ xxmaj no.2 in f # 
+ < / td>
+ <td class="dlsize">
+ 13 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_25_2" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / nky0f23fpaio2w5hmku54-p1jr1r7mjjnffi0kkre_izjjs_wgi_dg8har0gddchgvm-ccb-yfe5w8tspbxh7yen39p83uo0xxoud2htrmurt0zkhrqguum6wlfqqtrykxfztjcyt0xyflrj-ai8iw / fi1o0sgkfn0efoiskkno5w / chonoc05.mid" onclick="return settodownloaded('dlbtn_1_1_25_2');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ xxmaj no.3 in xxup g-
+ < / td>
+ <td class="dlsize">
+ 11 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_25_3" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / ofdzuxqtkxo7fynshqiqzs7vnuxrtztc-zcfapn3kaeue8wnmwqxigmfb09kuyj4esvskme_e3vext4gplwo6-dpkn_tyoygvcvfcdgym1a9p-5d0k3hnt3syc2m46fofegxx_exx_htf6mvexymsq / my-s2szijc4a8-8ykv7yng / chonoc06.mid" onclick="return settodownloaded('dlbtn_1_1_25_3');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dlwork" colspan="2">
+ xxmaj frédéric xxmaj françois xxmaj chopin: 12 xxmaj etudes, xxmaj op.10
+ < / td>
+ <td class="dlbutton">& < / td>
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ xxmaj no.5: xxmaj vivace in xxmaj gb ('black xxmaj keys')
+ < / td>
+ <td class="dlsize">
+ 17 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_26_1" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / w2lc8nnlnhv0t6cjqmv5cuntdqariulusvzoqjvqnzjs2dmm0vcqbo0g1mijsmljuasijnnab8894ywzqnf7szkayzaqdsmwq2whwmn__iwihrwp1epjzhnzxmbcuea5xb6zhkcluynynfpyrq5msq / xnih1gqhevssklioj8mcpq / blackkey.mid" onclick="return settodownloaded('dlbtn_1_1_26_1');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ xxmaj no.12: xxmaj allegro con fuoco in xxup c- ('revolutionary')
+ < / td>
+ <td class="dlsize">
+ 22 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_26_2" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / pumef78pcb0z7hvrud1upi3oxuks9qpkew3iyvecvposannoaspboysgffrlwvpgbdwlrmnphnzllk1nne5vewumiyk_7srpcnwzzwocjrdd9crdslt5jmkds_qtuyo62gsjuk9huusvior1jdgweq / 16zfnlsf_qsdnyhhrh3lxa / revetude.mid" onclick="return settodownloaded('dlbtn_1_1_26_2');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dlwork" colspan="2">
+ xxmaj frédéric xxmaj françois xxmaj chopin: 12 xxmaj etudes, xxmaj op.25
+ < / td>
+ <td class="dlbutton">& < / td>
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ xxmaj no.9: xxmaj allegro assai in xxmaj gb ('butterfly')
+ < / td>
+ <td class="dlsize">
+ 9 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_27_1" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / yimijy2yopuxe5iz9iqwf8bloygjmqjyfwg7i0cltpu5rzrnutwvvikterqjjb2p-so1zorm_umqpod0zrifx19dey-i6q9usj4dct-jhjzagd6at3msiunhmvp8slc4u-x5dpdqielsgrvr1xajwg / 6onmbdr9uzinr_qvr5dxeq / chopin_e.mid" onclick="return settodownloaded('dlbtn_1_1_27_1');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dlwork" colspan="2">
+ xxmaj frédéric xxmaj françois xxmaj chopin: 4 xxmaj mazurkas, xxmaj op.33
+ < / td>
+ <td class="dlbutton">& < / td>
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ xxmaj no.1 in g # -
+ < / td>
+ <td class="dlsize">
+ 6 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_28_1" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / kbc84onp736wylarlvmeeo9gfyr8ue_ei_gmvv3xmxa_n_zusye5sbutqlkvrrc6cz0wb6wz_rlg8j_gb9rc2diqoxshi6xzlzfpc-ifbmy_xilchvalxjbfjg49cl1h66odc6tq6cr63xmsthiy_a / pwcj3sird6dj16e1rzitea / mazrka22.mid" onclick="return settodownloaded('dlbtn_1_1_28_1');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ xxmaj no.2 in d
+ < / td>
+ <td class="dlsize">
+ 19 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_28_2" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / g8ibnftvizbbmhu0he8bni7cm8u4ndynmwhdssvlph-5fzk9m_rfjhwl9nxme_oh-g3qhh2sz5tddkhptbt5qp6ysjeb_uhdivmyr2cpnc8usbe7vngbnvlesqcw_1_2wtb9kkmfapnhgfep1wxzlg / rtnosqqgb7q3gqjta_5s2g / mazrka23.mid" onclick="return settodownloaded('dlbtn_1_1_28_2');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ xxmaj no.3 in c
+ < / td>
+ <td class="dlsize">
+ 6 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_28_3" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / izpu82cxd2uqxjx7izolkkp13fmu7hfahgdllxh2w2zvbrpcat7tepwtaq3ea4jw6dhfzldgit4eq0eexcepeyvztlvscml2gig9aduyjgirbq7lrr-waf32ucq7uol8z0yqq7vhnoe1zvi4dztkna / 1ok8z2kdzkpqnl7vy6cxya / mazrka24.mid" onclick="return settodownloaded('dlbtn_1_1_28_3');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ xxmaj no.4 in xxup b-
+ < / td>
+ <td class="dlsize">
+ 25 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_28_4" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / qojqbkugjdbgw0qwz4qiqihbdexp43dlwrqwwn9z4ejyuwxwjej3z4c_bwxgcgbekpwfl3hexrsobhysyqkyu0expkzp6-tkp3zodcvzzcxt5rftxnz_su12nxheakgqcyap4qo7oedzgjcv565u1g / 9_tmt2kaazivdlccdhd4vg / mazrka25.mid" onclick="return settodownloaded('dlbtn_1_1_28_4');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dlwork" colspan="2">
+ xxmaj frédéric xxmaj françois xxmaj chopin: 4 xxmaj mazurkas, xxmaj op.67
+ < / td>
+ <td class="dlbutton">& < / td>
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ xxmaj no.1 in g
+ < / td>
+ <td class="dlsize">
+ 8 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_29_1" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / ijgmkhengadau_7kigryp-yl8bjhl4nbhb1utpqpo7d4vd2zm6nu4uoww2xc1aef_ydawmfyy8lxjuekkpfml0atr0k0o5lsmgelasnv21oqm5gt5k3kjwymh16kk1of7ycwgyj3zpemg4xiyyoq2q / usfjaw73kvoaf3pi1ppeag / mazrka42.mid" onclick="return settodownloaded('dlbtn_1_1_29_1');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ xxmaj no.2 in xxup g-
+ < / td>
+ <td class="dlsize">
+ 9 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_29_2" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / e6jm05uknkw5mp2-q9dyu0vjtyig4xmjftzjvfxfkdtrhsljfbqinko2qx8oguk7q1a3jwcpdmxmn-emfyougeq5e55h4peujrfagctlzrp_m1tge9f2iafvlyalwlh3tdgbvwo7vscyn1hu2gq5uq / v3tnurleopkoafkljunthw / mazrka43.mid" onclick="return settodownloaded('dlbtn_1_1_29_2');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ xxmaj no.3 in c
+ < / td>
+ <td class="dlsize">
+ 7 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_29_3" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / u-lg6mv5oo8jjr-1tiznjozptr5m69pz5cwpwvq1wbdtx45t9uvpri-z-rdxgv1rjlsoojclfxm9n5abivupfk5duisavrd1aji1nbwtdhhz3p5hn6wnkuipctth2vrimebkzx0t_uqpspqowosm9w / njk_penvf-ynwfdahtf-gw / mazrka44.mid" onclick="return settodownloaded('dlbtn_1_1_29_3');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ xxmaj no.4 in xxup a-
+ < / td>
+ <td class="dlsize">
+ 12 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_29_4" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / fjmbgzoamyztsuawmwxhdbzawy6b2cfqasdt82ahgqalhypef68w8i--dagdkmzefceunz8qlkuvvwnhsjtlzbouorjxesvs4czzxhpe_jq5hq6ad1royjg0oksrbbrrn33nz3acjbhoqrscszezvq / jftqwsetyupi-mrk40sh2q / mazrka45.mid" onclick="return settodownloaded('dlbtn_1_1_29_4');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dlwork" colspan="2">
+ xxmaj frédéric xxmaj françois xxmaj chopin: 12 xxmaj etudes, xxmaj op.25
+ < / td>
+ <td class="dlbutton">& < / td>
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ xxmaj no.12 in xxup c- ('the xxmaj ocean')
+ < / td>
+ <td class="dlsize">
+ 23 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_30_1" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / _m4mmtx90iu2wgfchzzqv4o-xnob5snebts3z3rcviujyfp0zawfptsh0d4zqfjw249dwqnzuk3c6zb651rchdyosgpl3hshuuaerhog4vggb0vzuqroc_dolsiypl3nocybuubz3ep7rrzw6vrl7a / 1l_rmgdj-anharpbdzzgmq / fc_25_12.mid" onclick="return settodownloaded('dlbtn_1_1_30_1');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dlwork" colspan="2">
+ xxmaj frédéric xxmaj françois xxmaj chopin: 4 xxmaj mazurkas, xxmaj op.30
+ < / td>
+ <td class="dlbutton">& < / td>
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ xxmaj no.1 in xxup c-
+ < / td>
+ <td class="dlsize">
+ 6 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_31_1" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / djm2se7aq1vtv9fmnr12nnadyfniuy5-tst_dzarcgubnnul-uu12verapc39lfurtc0rhzuvbgqqvp5fou6_bwnecuguspvmvra_cviuchhk4qqgbkf6qg6wstmiuf4vtuwfrdmwwezxvqiplqwaa / pe-jx5t7empcfls2ilov8w / mazrka18.mid" onclick="return settodownloaded('dlbtn_1_1_31_1');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ xxmaj no.2 in xxup b-
+ < / td>
+ <td class="dlsize">
+ 10 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_31_2" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / fhpwkfdjw35hqtdfz_l1qgwqktlg-byblyfdpyuxkjytmttzx_jeyv1r8iiwhhamxf98fcap3xb5ukygvywoylg5xktiorlb00vere5meegp1_rzs7y2vmp2ncnwwhugugcn7ccq_f2-vczlneukqw / v7iklxoqj9nsih--dtsthg / mazrka19.mid" onclick="return settodownloaded('dlbtn_1_1_31_2');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ xxmaj no.3 in xxmaj db
+ < / td>
+ <td class="dlsize">
+ 13 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_31_3" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / rqfqjt xxrep 3 z uvqo7eh8uezlnoqvqk_m-zus5hza6tporfdaihfvybrxh0blr8ysve4gshxrskijeu41keld9cxyar_yqet1nq-w4ybu9xkttu5u0ouwiptl0cfdpv_vhkyspcwsvwptfvsnaeb1xg04g / mjbst0eqou_xlmlkgnvyow / mazrka20.mid" onclick="return settodownloaded('dlbtn_1_1_31_3');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ xxmaj no.4 in c # -
+ < / td>
+ <td class="dlsize">
+ 20 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_31_4" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / pdbw7fcudlwwv9gtklbift7ieobntlt8pmaoic739wt5mgzyislaqyeg0bzv4dg3rxauiadxmi74wvanm7zv8lsgwdcvaji6-dcfzqqcr_brfsbexeb00nlatyrccttesjvg8tvynfes72qaxesqcg / b4ap8vv6l3o4aj0ndl-jug / mazrka21.mid" onclick="return settodownloaded('dlbtn_1_1_31_4');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dlwork" colspan="2">
+ xxmaj frédéric xxmaj françois xxmaj chopin: 3 xxmaj mazurkas, xxmaj op.59
+ < / td>
+ <td class="dlbutton">& < / td>
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ xxmaj no.1 in xxup a-
+ < / td>
+ <td class="dlsize">
+ 18 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_32_1" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / f8mf4dlswpa0beqykyxdkttx6cx-iuazi4bybsocnrcvd2ann-pqpirt6-1i1ohkkh6fh884k-ctyyc351brxn0ufahjxihd7mp5sklps5kk18y48avuvdrslnxgur5_kgidhjydhxgmtnqli6qtoq / hk44rxgnjqrfsg94tdwosq / mazrka36.mid" onclick="return settodownloaded('dlbtn_1_1_32_1');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ xxmaj no.2 in xxmaj ab
+ < / td>
+ <td class="dlsize">
+ 14 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_32_2" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / htaqw9icevlflydqmeij4ku1dofsabnw4etmx_dxgxteet-csb5ms1hy5yxgezm5hrpdlmzopxh6avztos6u1fxqmh5wqtidcte6uwqdywxjmqxzle-anwoxffevdsfebtlkh-6t90l5beghji5fag / m3papbaprhwjsyznosxvng / mazrka37.mid" onclick="return settodownloaded('dlbtn_1_1_32_2');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ xxmaj no.3 in f # -
+ < / td>
+ <td class="dlsize">
+ 20 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_32_3" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / bwg3ne0uyjn5huru3ylr5o5uhbcd0p09ayclihvwu9dbh0guaiopxuhocuf_dvmakdkspgjpnxlbdozfdmtkwoytsr3okgwn1quj9q4-fw53m6wxcfaq3cchxack56ydj5ky2cxglnyjdr44b8dfva / xy9oq1u2fjj1ojswivlyjg / mazrka38.mid" onclick="return settodownloaded('dlbtn_1_1_32_3');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dlwork" colspan="2">
+ xxmaj frédéric xxmaj françois xxmaj chopin: xxmaj mazurka in xxmaj bb (op.posth., xxmaj brown73, xxmaj mazurka xxmaj no.56)
+ < / td>
+ <td class="dlbutton">& < / td>
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ xxmaj mazurka in xxmaj bb (op.posth., xxmaj brown73, xxmaj mazurka xxmaj no.56)
+ < / td>
+ <td class="dlsize">
+ 5 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_33_1" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / w47de3tsshuzjmvd7be7vte6xz9n7kajnjqkzcntafoyyz8yt-gwjk6eny3onbeqnlmtw66cun6o8neo_0ioek18qdtfzzc5reo7hb_3dsr2jzltfg4w_im5xgrehcuni6wq9w5srrhq6_geqkgvmg / u0o_ociixewnybly4dfswg / cmazurka.mid" onclick="return settodownloaded('dlbtn_1_1_33_1');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dlwork" colspan="2">
+ xxmaj frédéric xxmaj françois xxmaj chopin: 12 xxmaj etudes, xxmaj op.10
+ < / td>
+ <td class="dlbutton">& < / td>
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ 12 xxmaj etudes, xxmaj op.10
+ < / td>
+ <td class="dlsize">
+ 236 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_34_1" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / auoerkw0ycktvu8gzwgu-u5kglcsj60ep-mpaqnjujv-azxiukfh_rxavdynqlfbquphgdtion-79jb_q9owbft7jkylq3azihx2ntrq19xstrzihjyj1wi5mhiqg2mhvt8kugt6awvqpdo_jh_rew / -tfjsmv9o7ec4oagw_goia / ch-et-10.mid" onclick="return settodownloaded('dlbtn_1_1_34_1');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dlwork" colspan="2">
+ xxmaj frédéric xxmaj françois xxmaj chopin: xxmaj mazurka in xxup a- (op.posth., xxmaj brown140)
+ < / td>
+ <td class="dlbutton">& < / td>
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ xxmaj mazurka in xxup a- (op.posth., xxmaj brown140)
+ < / td>
+ <td class="dlsize">
+ 16 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_35_1" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / dqztz_ttg08agtq03eynjnzop8zkq6-itpdtcoyqimnv5bmjhb9sapgwwlb-gvkjaemoldcjkmljsaajo23atelxpqurevbs5vxecxyvtiuwy8tgd-avv2t9mle7s0ajw0r-r41mjntsswtrvcaztw / lpnnhytk61oozwg2ybwiew / mazrka51.mid" onclick="return settodownloaded('dlbtn_1_1_35_1');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dlwork" colspan="2">
+ xxmaj frédéric xxmaj françois xxmaj chopin: 3 xxmaj nocturnes, xxmaj op.15
+ < / td>
+ <td class="dlbutton">& < / td>
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ xxmaj no.1 in f
+ < / td>
+ <td class="dlsize">
+ 18 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_36_1" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / tg9ynwebbxfhwojfj7yfw2lqvyh-z2zwca6rtfqrus9iln9aizpp1en4qxi0ukhm-t2yumqiywi_kp3xdtzapugph0kzghtsmuqssiznvo8b51uhrdpjldt7pmi9i3e9dukhfveqe9esdxyipphr_g / w-obbxwl-2tnkvfo4_myja / noct15-1.mid" onclick="return settodownloaded('dlbtn_1_1_36_1');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dlwork" colspan="2">
+ xxmaj frédéric xxmaj françois xxmaj chopin: xxmaj mazurka in xxup a- ('notre temps'), xxup ct.105
+ < / td>
+ <td class="dlbutton">& < / td>
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ xxmaj mazurka in xxup a- ('notre temps'), xxup ct.105
+ < / td>
+ <td class="dlsize">
+ 14 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_37_1" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / t_5qdlwz0kxffuec-rzshobub1wqgp11paapg7txpulpaway8y4ii71f0tsfi20cbiupvvnjsbqr07qhbblel0qgfkqigt1ifjs-hy-qgu3o_tg7s7hmkttlbnufzgur__nsk0tl2ankbsuzafpe_w / 6y9rasenwrlh8a_lgbbi9w / mazrka50.mid" onclick="return settodownloaded('dlbtn_1_1_37_1');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dlwork" colspan="2">
+ xxmaj frédéric xxmaj françois xxmaj chopin: 12 xxmaj etudes, xxmaj op.10
+ < / td>
+ <td class="dlbutton">& < / td>
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ xxmaj no.1 in c ('waterfall')
+ < / td>
+ <td class="dlsize">
+ 12 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_38_1" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / iy62dymw5ygxba8kqpdiyk7kf18klv7ft0megryrxqhegho4tnqzedex8nsqsyw8ls21bx611m-hiscd-7ewlhislkrdq_43eppo3ucuylrwcsn1p5utmrrf9twgtaamckdrmwbeigpib-44nccbfw / ptiwz1boquu5crofo89hww / chetude1.mid" onclick="return settodownloaded('dlbtn_1_1_38_1');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ xxmaj no.12: xxmaj allegro con fuoco in xxup c- ('revolutionary')
+ < / td>
+ <td class="dlsize">
+ 14 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_38_2" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / 1emuxfpfxg0evcrsrdolmsjel9m6xk-xrapeeqmcu36cvmh4_dusy7i7q8qqjt0g2eptzzbmej28tb4drfkdywqdyhrwbfryjgfxig09x83-ltpotyqnjwhwohln9anuvll3o8cszr9wdjs8iegw9g / -sskbly3jdaku-x1qbjjtq / ch_etu12.mid" onclick="return settodownloaded('dlbtn_1_1_38_2');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dlwork" colspan="2">
+ xxmaj frédéric xxmaj françois xxmaj chopin: 3 xxmaj nocturnes, xxmaj op.9 (includes the famous 'nocturne in xxmaj eb')
+ < / td>
+ <td class="dlbutton">& < / td>
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ xxmaj no.2 in xxmaj eb
+ < / td>
+ <td class="dlsize">
+ 13 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_39_1" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / kkrf1im_8l_pe6fjy0azr_qkd0hse8wwtit3wchehfpjpmuqckl_irrjlvnvuifr5aafwwyhg89q09r1uwcp_knoyfpmi9w3w7nfhq51twiiyajby-cajs5u_lguminevp59doacwymavlqrdmftkq / gnv6qx_mcdb-r3esxpyrww / nocturne.mid" onclick="return settodownloaded('dlbtn_1_1_39_1');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dlwork" colspan="2">
+ xxmaj frédéric xxmaj françois xxmaj chopin: xxmaj ballade xxmaj no.3 in xxmaj ab, xxmaj op.47
+ < / td>
+ <td class="dlbutton">& < / td>
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ xxmaj ballade xxmaj no.3 in xxmaj ab, xxmaj op.47
+ < / td>
+ <td class="dlsize">
+ 39 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_40_1" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / 3_hfsr7ixyyrjp_vpzy1xj2_ub8_uc7kkbt1svkiwxr6_r7pfqxkbylfn7fmr26v30pnn0qlpathibxmimaoz0njxhujfwav4e_vtfdw4-fwbtfazlmzepyoyoaqel3fszuvcrpdjk6jkitsgioraw / hfz7pbpc4i7ya2t5grsdng / ballade3.mid" onclick="return settodownloaded('dlbtn_1_1_40_1');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dlwork" colspan="2">
+ xxmaj frédéric xxmaj françois xxmaj chopin: xxmaj impromptu xxmaj no.2 in f # , xxmaj op.36
+ < / td>
+ <td class="dlbutton">& < / td>
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ xxmaj impromptu xxmaj no.2 in f # , xxmaj op.36
+ < / td>
+ <td class="dlsize">
+ 21 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_41_1" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / yrpkkf2x7aqloblshwpkkd7yjzuucqv_dfm-1ez7vxptf6ctvmq42thdahhu5lhmkqzsebzrn7rk3svqvrehprxdta7jgw_70vrpuukl6igs3dn6mzzn5hdg-fk_2qn3lsqq2cfvxkhlmsvyyfpoyg / ljht9emy7vjzmi-yekwkzw / mk_chim2.mid" onclick="return settodownloaded('dlbtn_1_1_41_1');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dlwork" colspan="2">
+ xxmaj frédéric xxmaj françois xxmaj chopin: 3 nouvelles études, xxup ct.38-40
+ < / td>
+ <td class="dlbutton">& < / td>
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ xxmaj no.2 in xxmaj db
+ < / td>
+ <td class="dlsize">
+ 25 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_42_1" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / xhypkd5ve8h_mfzwn2bdo03cisxaqkiqkyph1wam4eu-gpkocjkl3sklbhd9pqniilfvuhahplek3lpsfmtl5rceakcwcwmdnfdr2pujnf_gkeunmjdaxelivjj-xwclttkcmia_z8cmh56onelo2a / c-tnahy9vsfgpxjeqmr27w / chnvet02.mid" onclick="return settodownloaded('dlbtn_1_1_42_1');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dlwork" colspan="2">
+ xxmaj frédéric xxmaj françois xxmaj chopin: 3 xxmaj nocturnes, xxmaj op.15
+ < / td>
+ <td class="dlbutton">& < / td>
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ xxmaj no.3 in xxup g-
+ < / td>
+ <td class="dlsize">
+ 9 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_43_1" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / pr5wfhzogbe0cqsjcuay-jvuj74bzpbhbw2yejydbk1pyauibqodg86_1ycl0qli4kj4lkud95kes8kdb3_i9eua_pd4zvl8eqpli4cjj7ev4ikq0_nj2wtunvdm6psitykp_nep6ym9dvezijkxyg / 9izito5bvxkakpxvlrlila / chop15-3.mid" onclick="return settodownloaded('dlbtn_1_1_43_1');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dlwork" colspan="2">
+ xxmaj frédéric xxmaj françois xxmaj chopin: 3 nouvelles études, xxup ct.38-40
+ < / td>
+ <td class="dlbutton">& < / td>
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ xxmaj no.1 in xxup f-
+ < / td>
+ <td class="dlsize">
+ 32 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_44_1" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / jniyjpnrojyhs-kkru3_7omfmhvdboncm6wfycg-nki4ixk0kahedotkvqztyh3nv2kc5x0gyrhbs0ag2-e_v0txx_oxgqg0y5jmar8rno9kygca1gq0wt5sar-hdzcwrzhdfkgeljsz9qocx4vopq / wkorpv9fn5-ezy2eklu0hq / ch-etude.mid" onclick="return settodownloaded('dlbtn_1_1_44_1');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ <tr>
+ <td class="dlwork" colspan="2">
+ xxmaj frédéric xxmaj françois xxmaj chopin: xxmaj ballade xxmaj no.2 in xxup f, xxmaj op.38
+ < / td>
+ <td class="dlbutton">& < / td>
+ < / tr>
+
+ <tr>
+ <td class="dltrack">
+ xxmaj ballade xxmaj no.2 in xxup f, xxmaj op.38
+ < / td>
+ <td class="dlsize">
+ 45 xxup kb
+ < / td>
+
+ <td class="dlbutton">
+ <span id="dlbtn_1_1_45_1" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><a style="width:90px;text-align:center;" href="https: / / xxrep 3 w .classicalarchives.com / d / mktf57epfarg-bjk3zbi2no2rm3obzbyn-wahsnzitpnpczfmi_yxrs7ydsqwa2jm2b7bhjjgnfd1ttuz6rlh288pxs4hyfu5uplsh30jlyfuqcjnbvvb2-q5w0wadfo2vf2xj9vylv8t2lz2vnjqa / 3l2wibubfcjrgo1aisa2uq / ballade2.mid" onclick="return settodownloaded('dlbtn_1_1_45_1');">download< / a>< / span>< / span>
+ < / td>
+
+ < / tr>
+
+ < / table>
+ < / div>
+ <div class="tl">< / div>
+ <div class="tr">< / div>
+ <div class="bl">< / div>
+ <div class="br">< / div>
+ < / div>
+
+ < / div>
+
+ <div class="ft">
+ <div style="float:right;">
+ <ul>
+ <li><span id="clearbtnbot" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><button type="button" hidefocus="true" onclick="return cleartracks()">clear xxmaj already xxmaj downloaded xxmaj tracks< / button>< / span>< / span>< / li>
+ < / ul>
+ < / div>
+ <div class="clearsm">< / div>
+ < / div>
+
+ <div class="tl">< / div>
+ <div class="tr">< / div>
+ <div class="bl">< / div>
+ <div class="br">< / div>
+ < / div>
+ < / form>
+ <!-- / xxup content -->
+ < / div>
+ < / td>
+
+ <!-- xxup sidebar -->
+ <td id="gutter"><div>< / div>< / td>
+ <td id="sidebar"><div id="sbfix">< / div>
+ <div class="box">
+ <div class="nav">< / div>
+ <div class="hd"><h1>try our xxmaj download xxmaj manager< / h1>< / div>
+ <div class="bd pad">
+ <h2 style="margin-top:0;">download with just xxmaj one xxmaj click!< / h2>
+ <p><a href=" / download-manager / "><img src=" / images / xxup cta / 140701 / a_dlmanager.png" alt="free xxmaj download xxmaj manager" / >< / a>< / p>
+ <p style="text-align:center;"><span class="yui-button yui-push-button" style="margin:0;" onmouseover="cbtn(this);"><span class="first-child"><a href=" / download-manager / ">get the xxmaj download xxmaj manager xxmaj now!< / a>< / span>< / span>< / p>
+
+ <p style="text-align:center;"><em style="font-size:77%;">requires xxmaj windows & <a href="http: / / java.sun.com / javase / downloads / " target="_blank">java 6< / a>< / em>< / p>
+
+ < / div>
+ <div class="ft yui-hidden" id="accpreffooter">
+ <ul>
+ <li><span id="saveaccpref" class="yui-button yui-push-button" onmouseover="cbtn(this);"><span class="first-child"><button type="button" onclick="saveaccpref('s-save-account-preferences.html');" hidefocus="true">save xxmaj changes< / button>< / span>< / span>< / li>
+ < / ul>
+ <div class="clearsm">< / div>
+ < / div>
+ <div class="tl">< / div>
+ <div class="tr">< / div>
+ <div class="bl">< / div>
+ <div class="br">< / div>
+ < / div>
+ < / td>
+ <!-- / xxup sidebar -->
+
+ < / tr>
+ < / table>
+
+
+
+ < / div>
+ <div class="content pbottom">
+ <noscript>
+ <div id="jsemsg">
+ <div class="msg">
+ xxmaj javascript is required to use this site.
+ < / div>
+ <div class="bdy">
+ <h2>please enable xxmaj javascript in your browser's settings, and reload this page.< / h2>
+ xxmaj in xxmaj internet xxmaj explorer 7+: click "tools", "internet xxmaj options", "security", "default xxmaj level", "ok"<br / ><br / >
+ xxmaj in xxmaj firefox 2+: click "tools", "options", "content", "enable xxmaj javascript", "ok"<br / ><br / >
+ xxmaj if you continue to see this message, your security software is interfering with your browser.
+ xxmaj please contact your security software's customer service or (if your computer has a service warranty) your computer's manufacturer, and ask how to configure it to allow xxmaj javascript.<br / >
+ < / div>
+ <div class="msg">
+ xxmaj javascript is required to use this site.
+ < / div>
+ < / div>
+ < / noscript>
+ & 
+ < / div>
+ <div class="content">
+
+
+ <div class="yui-g cpline">
+ <div class="cpinfo">© 1994-2018 xxmaj classical xxmaj archives xxup llc — xxmaj the xxmaj ultimate xxmaj classical xxmaj music xxmaj destination ™< / div>
+ < / div>
+ < / div>
+ < / div>
+ < / div>
+
+ <div id="ft">
+ <div id="cma-bot" class="sides">
+ <div class="footer">
+
+
+<div class="yui-gb first">
+ <div class="yui-u first">
+ <ul>
+ 
+ <li class="first"><a href="javascript:openapmradio()">free xxmaj internet xxmaj radio< / a>< / li>
+ <li>& < / li>
+ 
+ <li class="first"><a href=" / secure / message.html" onclick="yahoo.cma.ajaxerrpnl.startrequest(' / help / help-bubble.html',null,'help'); return false;">help< / a>< / li>
+ <li><a href=" / secure / password.html">forgot password< / a>< / li>
+ <li><a href=" / choose_player.html">browser xxmaj compatibility xxmaj test< / a>< / li>
+ <li><a href=" / help.html">how to play / download / burn music< / a>< / li>
+ <li><a href=" / secure / message.html" onclick="yahoo.cma.ajaxerrpnl.startrequest(' / help / musicology-bubble.html',null,'musicology xxmaj correction'); return false;">submit musicology correction< / a>< / li>
+ <li><a href=" / help.html">tutorials && faqs< / a>< / li>
+ <li><a href=" / howto / tutorials.html">how xxmaj to< / a>< / li>
+ <li><a href=" / secure / message.html" onclick="yahoo.cma.ajaxerrpnl.startrequest(' / help / subscription-bubble.html',null,'subscription xxmaj help'); return false;">my xxmaj subscription< / a>< / li>
+ <li><a href=" / secure / message.html">send xxmaj feedback< / a>< / li>
+ < / ul>
+ < / div>
+ <div class="yui-u">
+ <ul>
+ <li class="first"><a href=" / sitemap.html">sitemap< / a>< / li>
+ <li>& < / li>
+ <li class="first"><a href=" / submit / ">submit xxmaj your xxmaj music< / a>< / li>
+ <li class="first">tutorials< / li>
+ <li><a href="javascript:tutoverview();">overview< / a>< / li>
+ <li><a href="javascript:tutcomposers();">composers< / a>< / li>
+ <li><a href="javascript:tutworks();">works< / a>< / li>
+ <li><a href="javascript:tutartists();">artists< / a>< / li>
+ <li><a href="javascript:tutalbums();">albums< / a>< / li>
+ <li><a href="javascript:tutplaylists();">playlists< / a>< / li>
+ 
+ <li>& < / li>
+ <li class="first"><a href=" / google_button.html">google xxmaj toolbar xxmaj button (ie && xxup ff only)< / a>< / li>
+ < / ul>
+ < / div>
+ <div class="yui-u">
+ <ul>
+ <li class="first"><a href=" / intro.html">introduction to xxmaj classical xxmaj archives< / a>< / li>
+ <li>& < / li>
+ 
+ <li class="first"><a href="https: / / blog.classicalarchives.com / ">blog< / a>< / li>
+ <li class="first"><a href=" / about.html">about xxmaj us< / a>< / li>
+ <li class="first"><a href=" / secure / message.html">contact xxmaj us< / a>< / li>
+ <li class="first"><a href=" / link.html">link to xxmaj us< / a>< / li>
+ <li><a href=" / terms.html">terms && xxmaj conditions< / a>< / li>
+ <li><a href=" / privacy.html">privacy xxmaj policy< / a>< / li>
+ <li><a href=" / terms.html # ip">copyrights && xxmaj permissions< / a>< / li>
+ <li>& < / li>
+ <li id="tflag" class="first">
+ 
+ < / li>
+ < / ul>
+ < / div>
+< / div>
+
+<div id="swfversion">< / div>
+<script type="text / javascript">embedversionplugin();< / script>
+
+ < / div>
+ < / div>
+ < / div>
+ < / div>
+
+< / div>
+
+
+<div class="google-analytics-tracking">
+ <script type="text / javascript">
+ var _gaq = _gaq || [];
+ _gaq.push(['_setaccount', 'ua-346506-3']);
+ _gaq.push(['_setdomainname', '.classicalarchives.com']);
+ _gaq.push(['_trackpageview']);
+ < / script>
+< / div>
+<div id="msgbox2" class="yui-hidden">
+ <div class="hd">& < / div>
+ <div class="bd">
+ <iframe id="surveyframe" width="470" height="450" scrolling="auto" frameborder="0" title="survey" style="margin:10px;">< / iframe>
+ < / div>
+ <div class="ft">< / div>
+< / div>
+
+
+ < / body>
+< / html>

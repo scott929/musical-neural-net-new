@@ -1,0 +1,15 @@
+data/models
+data/output
+data/train
+data/test
+data/composers
+data/GeneralUser
+models
+critic_data
+composer_data
+tmp
+fastai
+__pycache__
+.ipynb_checkpoints
+critic_data/.ipynb_checkpoints
+data/.ipynb_checkpoints
